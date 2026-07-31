@@ -19,6 +19,126 @@ description: 多终端通过本地 Git 仓库临时共享文件。支持任意�
 
 当用户首次使用此技能时，按以下步骤引导：
 
+### 前置条件：Git 账号配置
+
+**这是最关键的一步，必须优先完成！**
+
+#### 检查是否已配置
+
+```bash
+# 检查 git 是否安装
+git --version
+
+# 检查是否配置过用户名
+git config --global user.name
+git config --global user.email
+
+# 检查是否能连接 GitHub
+ssh -T git@github.com
+```
+
+**判断结果**：
+- 如果 `git --version` 无输出 → 未安装 git，需要先安装
+- 如果 `user.name` 或 `user.email` 为空 → 未配置，需要配置
+- 如果 `ssh -T` 返回 `Hi xxx! You've successfully authenticated` → 已配置成功
+
+#### 情况一：未安装 Git
+
+**Windows**：
+1. 打开 https://git-scm.com/download/win
+2. 下载安装包
+3. 双击运行，一路点 "Next" 即可
+4. 安装完成后重启终端
+
+**Mac**：
+```bash
+xcode-select --install
+```
+点击 "安装" 等待完成
+
+**Linux (Ubuntu/Debian)**：
+```bash
+sudo apt update
+sudo apt install git -y
+```
+
+#### 情况二：未配置 Git 账号
+
+```bash
+# 设置用户名（填你的 GitHub 用户名）
+git config --global user.name "你的用户名"
+
+# 设置邮箱（填你的 GitHub 邮箱）
+git config --global user.email "你的邮箱@example.com"
+```
+
+**询问用户**：请提供你的 GitHub/Gitee 用户名和邮箱
+
+#### 情况三：未配置 SSH 密钥
+
+**方式一：使用 SSH（推荐，更安全）**
+
+1. 生成 SSH 密钥：
+
+```bash
+# 生成密钥（一路回车即可）
+ssh-keygen -t ed25519 -C "你的邮箱@example.com"
+
+# 查看公钥
+# Windows:
+cat ~/.ssh/id_ed25519.pub
+# Mac/Linux:
+open ~/.ssh/id_ed25519.pub  # Mac 会自动打开
+# 或者
+cat ~/.ssh/id_ed25519.pub    # Linux
+```
+
+2. 复制公钥内容
+
+3. 添加到 GitHub：
+   - 打开 https://github.com/settings/keys
+   - 点击 "New SSH key"
+   - Title 填 "我的电脑"
+   - Key 粘贴刚才复制的公钥
+   - 点击 "Add SSH key"
+
+4. 测试连接：
+
+```bash
+ssh -T git@github.com
+```
+
+成功会显示：`Hi 用户名! You've successfully authenticated...`
+
+**方式二：使用 HTTPS + Token（简单但每次要输密码）**
+
+1. 生成 Personal Access Token：
+   - 打开 https://github.com/settings/tokens
+   - 点击 "Generate new token"
+   - Note 填 "share"
+   - Expiration 选 "No expiration"
+   - 勾选 `repo` 权限
+   - 点击 "Generate token"
+   - **立即复制 token（只显示一次！）**
+
+2. 使用 token 替代密码：
+
+```bash
+# 将远程地址改为带 token 的格式
+git remote set-url origin https://<token>@github.com/用户名/share.git
+```
+
+#### 验证配置完成
+
+```bash
+# 测试 SSH 连接
+ssh -T git@github.com
+
+# 成功输出：Hi 用户名! You've successfully authenticated...
+```
+
+**只有看到以上成功输出，才能继续下一步！**
+
 ### 第一步：环境检查
 
 执行以下检查，确认本机具备基本条件：
@@ -34,7 +154,29 @@ git --version
   - Mac：执行 `xcode-select --install`
   - Linux：执行 `sudo apt install git`（Ubuntu/Debian）
 
-### 第二步：创建远程仓库
+### 第二步：自动检测默认值
+
+在询问用户之前，先尝试获取默认值：
+
+```bash
+# 获取系统用户名
+echo $USER  # Mac/Linux
+echo %USERNAME%  # Windows
+
+# 检测操作系统
+uname -s  # Mac/Linux
+ver  # Windows
+
+# 检测桌面路径
+ls ~/Desktop 2>/dev/null && echo "桌面存在"
+```
+
+**自动填充以下配置**：
+- `username`：默认使用系统用户名
+- `share_dir`：默认 `~/Desktop/share`（Mac/Linux）或 `C:/Users/用户名/Desktop/share`（Windows）
+- `platform`：自动检测（auto）
+
+### 第三步：创建远程仓库
 
 引导用户在 GitHub/Gitee 创建仓库：
 
@@ -48,15 +190,22 @@ git --version
 
 **询问用户**：请提供远程仓库地址（如 `https://github.com/xxx/share.git`）
 
-### 第三步：本地初始化
+### 第四步：本地初始化
 
-用户提供仓库地址后，执行以下命令：
+**确认配置**（重要）：
+
+```
+请确认以下配置：
+
+本地目录：~/Desktop/share
+远程仓库：https://github.com/xxx/share.git
+
+确认无误请回复"是"，否则请告诉我需要修改的内容
+```
+
+用户确认后，执行以下命令：
 
 ```bash
-# 选择 share 目录位置（默认桌面）
-# Windows: C:/Users/用户名/Desktop/share
-# Mac/Linux: ~/Desktop/share
-
 # 创建目录
 mkdir -p ~/Desktop/share
 cd ~/Desktop/share
@@ -75,24 +224,25 @@ git branch -M master
 git pull origin master || true
 ```
 
-### 第四步：配置技能
+### 第五步：写入配置
 
-将以下内容写入 `config.json`：
+**确认配置**（重要）：
 
-```json
+```
+最终配置如下：
+
 {
-  "share_dir": "本机share目录的绝对路径",
+  "share_dir": "~/Desktop/share",
   "remote": "origin",
   "branch": "master",
-  "platform": "auto"
+  "platform": "auto",
+  "username": "zhangsan"
 }
+
+确认无误请回复"是"，否则请告诉我需要修改的内容
 ```
 
-`platform` 可选值：
-- `auto`：自动检测
-- `win`：Windows
-- `mac`：Mac
-- `linux`：Linux
+用户确认后，写入 `config.json`
 
 ### 第五步：验证联通
 
@@ -129,6 +279,34 @@ git pull origin master
 1. 告知用户哪一步失败
 2. 提供具体的修复命令
 3. 修复后重新自检
+
+## 初始化配置流程
+
+首次使用时，按以下流程获取配置：
+
+### 自动检测
+
+先尝试自动获取默认值：
+- `username`：从系统获取（`$USER` 或 `%USERNAME%`）
+- `share_dir`：默认桌面下的 share 目录
+- `platform`：自动检测操作系统
+
+### 二次确认
+
+以下重要配置需要用户确认：
+
+1. **share_dir（本地目录）**
+   - 显示默认值
+   - 询问："是否使用此路径？"
+
+2. **远程仓库地址**
+   - 用户必须提供
+   - 显示完整地址
+   - 询问："确认此地址正确？"
+
+3. **最终配置**
+   - 显示完整的 config.json 内容
+   - 询问："确认配置无误？"
 
 ## 触发条件
 
@@ -168,7 +346,8 @@ git pull origin master
 
 1. 用户明确说"清空"时直接执行，无需二次确认
 2. 执行对应平台的清空脚本
-3. 返回清空结果
+3. 清空逻辑：删除所有文件 → 创建空提交 → 强制推送（保留历史记录）
+4. 返回清空结果
 
 ### 3. 获取文件
 
@@ -176,13 +355,30 @@ git pull origin master
 2. 在 `share_dir` 中搜索用户指定的文件
 3. 找到则返回完整路径，未找到则返回当前文件列表
 
-## 平台脚本映射
+## 平台脚本
 
-| 操作 | Windows | Mac/Linux |
-|------|---------|-----------|
-| 上传 | `scripts/share-upload.ps1` | `scripts/share-upload.sh` |
-| 拉取 | `scripts/share-fetch.ps1` | `scripts/share-fetch.sh` |
-| 清空 | `scripts/share-clean.ps1` | `scripts/share-clean.sh` |
+每个平台一个脚本，通过参数区分操作：
+
+| 平台 | 脚本 | 用法 |
+|------|------|------|
+| Windows | `scripts/share.ps1` | `./share.ps1 upload file.txt` |
+| Mac/Linux | `scripts/share.sh` | `./share.sh upload file.txt` |
+
+### 操作示例
+
+```bash
+# 上传文件
+./share.ps1 upload file1.txt file2.csv      # Windows
+./share.sh upload file1.txt file2.csv       # Mac/Linux
+
+# 拉取最新
+./share.ps1 fetch                            # Windows
+./share.sh fetch                             # Mac/Linux
+
+# 清空（保留历史）
+./share.ps1 clean                            # Windows
+./share.sh clean                             # Mac/Linux
+```
 
 ## 常见问题
 
@@ -218,6 +414,6 @@ git push origin master
 ## 注意事项
 
 - 该仓库只用于临时中转，不要传大文件或敏感文件
-- 清空操作会强制推送，会重写分支历史
+- 清空操作会保留历史记录，只是添加一个空提交
 - 多终端同时操作时建议先拉取再推送
 - 首次使用需要用户手动创建远程仓库
