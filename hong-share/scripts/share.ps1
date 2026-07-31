@@ -48,9 +48,9 @@ switch ($Action) {
             }
         }
 
-        # 切到 master 并拉取
+        # 切到 master 并拉取（冲突时以本地上传的为准）
         git checkout master
-        git pull origin master
+        git pull -X ours origin master
 
         # 检查是否有变更
         $status = git status --porcelain
