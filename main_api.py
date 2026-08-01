@@ -32,7 +32,7 @@ LINKS_CSV = Path("links.csv")
 OUTPUT_DIR = Path("comments_out_api")
 PROJECT_META_DIR = Path("project_meta_api")
 PROGRESS_DIR = Path("indiegogo_main_api_progress")
-BROWSER_PORT = 4824
+BROWSER_PORT = 4829
 
 S_PENDING = "pending"
 S_DONE = "done"
@@ -676,13 +676,22 @@ def main():
         print("[main] 没有 pending 任务")
         return
 
-    raw = input("请输入开始索引（从0开始，直接回车=0）: ").strip()
+    raw_start = input("请输入开始索引（从0开始，直接回车=0）: ").strip()
+    raw_end = input("请输入结束索引（直接回车=不限制）: ").strip()
     try:
-        start_idx = int(raw) if raw else 0
+        start_idx = int(raw_start) if raw_start else 0
     except ValueError:
         start_idx = 0
+    try:
+        end_idx = int(raw_end) if raw_end else None
+    except ValueError:
+        end_idx = None
     start_idx = max(0, start_idx)
-    print(f"[main] 从索引 {start_idx} 开始")
+    if end_idx is not None:
+        end_idx = max(start_idx, end_idx)
+        print(f"[main] 从索引 {start_idx} 到 {end_idx}")
+    else:
+        print(f"[main] 从索引 {start_idx} 开始，无限制")
 
     dp = Chromium(BROWSER_PORT)
     # tab=dp.get_tab()
@@ -693,6 +702,9 @@ def main():
     for idx in pending_indices:
         if idx < start_idx:
             continue
+        if end_idx is not None and idx > end_idx:
+            print(f"[main] 已达到结束索引 {end_idx}，停止")
+            break
 
         task = rows[idx]
         project_id = task["projectID"] or str(idx)
