@@ -244,7 +244,7 @@ git pull origin master || true
 
 用户确认后，写入 `config.json`
 
-### 第五步：验证联通
+### 第六步：验证联通
 
 执行拉取测试，确认配置正确：
 
@@ -260,7 +260,7 @@ git pull origin master
 
 **失败处理**：
 - "fatal: remote origin already exists" → 远程已配置，跳过 `git remote add`
-- "error: failed to push some refs" → 先执行 `git pull --rebase origin master`
+- "error: failed to push some refs" → 先执行 `git pull -X ours origin master` 再推送
 - "fatal: could not read Username" → 仓库地址需要认证，引导用户配置 token
 
 ## 配置文件位置
@@ -390,6 +390,23 @@ git checkout master
    - "设置 share"
    - "share 怎么用"
 
+## 重要：禁止自动操作
+
+**只有用户明确表达要操作 share 时，才执行上传/拉取/清空等任何 Git 操作。**
+
+用户没有明确说操作 share 时，**绝对不要**：
+
+- 自动 commit / push / pull / fetch
+- 修改技能文件后顺手同步到 share 仓库
+- 因为"上次用过"或"顺手"就执行任何 Git 操作
+- 把技能本身的内部改动（SKILL.md、脚本等）自动推送到 share
+
+**正确做法**：
+- 只有用户明确说"上传/拉取/清空/配置 share"时才操作
+- 技能文件（SKILL.md、脚本）的本地改动**不自动同步**到 share，除非用户明确要求
+- 如果不确定用户意图，先询问确认，不要默认执行
+
+
 ## 执行规则
 
 **前置要求**：每次操作前必须执行分支检查（详见「分支管理规则」）：默认在 `master`，用户明确指定其他分支时才切换，用完后立即切回 `master`。
@@ -452,9 +469,9 @@ git checkout master
 **A**: 远程已配置，跳过添加步骤，直接执行 `git fetch origin`
 
 ### Q: 提示 "error: failed to push some refs"
-**A**: 本地与远程有冲突，执行：
+**A**: 本地与远程有冲突，先拉取再推送（脚本默认策略：冲突时以本地上传的为准）：
 ```bash
-git pull --rebase origin master
+git pull -X ours origin master
 git push origin master
 ```
 
@@ -470,9 +487,10 @@ git remote set-url origin https://<token>@github.com/用户名/share.git
 **A**: Git 限制单个文件不超过 100MB，建议压缩后传输
 
 ### Q: 多终端同时修改同一文件冲突
-**A**: 先拉取再推送：
+**A**: 先拉取再推送（脚本默认以本地上传的为准）：
 ```bash
-git pull origin master
+git pull -X ours origin master
+# 本地内容会保留
 # 解决冲突（如有）
 git push origin master
 ```

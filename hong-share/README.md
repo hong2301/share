@@ -56,6 +56,9 @@ git branch -M master
 - "获取一下 share 的 xxx"
 - "清空一下 share"
 
+> **重要：只有明确说要操作 share 时，AI 才会执行上传/拉取/清空等 Git 操作。**
+> 没有明确说时不会自动同步任何改动。
+
 ### 手动操作
 
 ```bash
@@ -68,6 +71,22 @@ git push origin master
 
 # 拉取
 git pull origin master
+```
+
+## 分支管理
+
+- 默认操作在 `master` 分支
+- 其他分支可用，但必须明确指定（如"把文件传到 dev 分支"）才切换
+- 用完后必须立即切回 `master`
+- 当前分支从 `config.json` 的 `branch` 字段读取
+
+## 冲突策略
+
+推送冲突时，脚本默认使用 `git pull -X ours`：**以本地上传的文件为准**（先拉取再推送）。
+
+```bash
+git pull -X ours origin master
+git push origin master
 ```
 
 ## 目录结构
@@ -94,10 +113,10 @@ git remote set-url origin https://<token>@github.com/用户名/share.git
 
 ### 推送冲突
 
-先拉取再推送：
+先拉取再推送（以本地上传的为准）：
 
 ```bash
-git pull --rebase origin master
+git pull -X ours origin master
 git push origin master
 ```
 
