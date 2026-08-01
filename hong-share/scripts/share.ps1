@@ -12,6 +12,10 @@ $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $configPath = Join-Path $scriptDir "..\config.json"
 $config = Get-Content $configPath -Raw | ConvertFrom-Json
 $SHARE_DIR = $config.share_dir
+$REMOTE = $config.remote
+if (-not $REMOTE) { $REMOTE = "origin" }
+$BRANCH = $config.branch
+if (-not $BRANCH) { $BRANCH = "master" }
 $username = $config.username
 if (-not $username) { $username = "unknown" }
 
@@ -48,9 +52,9 @@ switch ($Action) {
             }
         }
 
-        # 切到 master 并拉取（冲突时以本地上传的为准）
-        git checkout master
-        git pull -X ours origin master
+        # 切到分支并拉取（冲突时以本地上传的为准）
+        git checkout $BRANCH
+        git pull -X ours $REMOTE $BRANCH
 
         # 检查是否有变更
         $status = git status --porcelain
@@ -63,13 +67,13 @@ switch ($Action) {
         $timestamp = Get-Date -Format "yyyy-MM-dd-HHmmss"
         git add .
         git commit -m "upload [$username] $timestamp"
-        git push origin master
+        git push $REMOTE $BRANCH
         Write-Host "Upload complete."
     }
     "fetch" {
-        git fetch origin
-        git checkout master
-        git pull origin master
+        git fetch $REMOTE
+        git checkout $BRANCH
+        git pull $REMOTE $BRANCH
         Write-Host "Fetch complete."
     }
     "clean" {
@@ -82,7 +86,7 @@ switch ($Action) {
         git commit -m "clear [$username] $timestamp" --allow-empty
 
         # 强制推送
-        git push origin master -f
+        git push $REMOTE $BRANCH -f
         Write-Host "Share cleaned. History preserved."
     }
 }
