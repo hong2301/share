@@ -1,0 +1,130 @@
+# 客户第一次需求
+抓取与 Lululemon及PFAS产品安全争议相关的英文X帖子、回复和引用帖，用于后续情感分析、主题分析和时间序列模型。
+
+统一使用UTC时间：
+开始日期：2026年1月1日
+危机公开日期：2026年4月13日
+品牌回应日期：2026年4月16日
+结束日期：2026年7月31日
+
+清洗后有效数据量：20,000条
+尽量保证每天至少有 20条有效帖子，如果很多日期不足20条，后续改为按周汇总
+
+必须抓取的两类数据：
+1、 Lululemon整体讨论
+(lululemon OR @lululemon) lang:en -is:retweet
+用于建立危机前后的正常讨论基线。
+2、危机相关讨论
+分别搜索：
+(lululemon OR @lululemon)
+(PFAS OR "forever chemicals" OR toxic OR chemical)
+lang:en -is:retweet
+(lululemon OR @lululemon)
+(health OR safety OR cancer OR immune OR harmful)
+lang:en -is:retweet
+(lululemon OR @lululemon)
+(transparency OR disclose OR testing OR evidence OR report)
+lang:en -is:retweet
+(lululemon OR @lululemon)
+(greenwashing OR sustainability OR hypocrisy)
+lang:en -is:retweet
+(lululemon OR @lululemon)
+(boycott OR refund OR trust OR betrayed OR "stop buying")
+lang:en -is:retweet
+
+必须抓取的内容类型：
+必须保留：
+原始帖子
+回复
+回复的回复
+引用帖
+官方Lululemon危机回应帖下的完整讨论串
+主文本分析排除：
+纯转发
+无新增文字的repost
+但保留转发数量作为互动指标。
+
+每条数据必须保存的字段：
+post_id
+author_id
+created_at
+text
+conversation_id
+parent_post_id
+in_reply_to_user_id
+lang
+query_group
+is_reply
+is_quote
+is_repost
+like_count
+reply_count
+repost_count
+quote_count
+impression_count
+retrieved_at
+另外生成：
+author_hash
+date
+sample_type
+is_official_brand_post
+is_direct_reply_to_brand
+is_quote_of_official_response
+
+
+要找到Lululemon在 2026年4月16日 的正式回应帖。
+然后抓取：
+官方帖子
+所有直接回复
+多层回复
+引用该帖的quote posts
+点赞、回复、转发、引用数据
+保存：
+official_response_post_id
+official_response_conversation_id
+reply_depth
+
+ 数据清洗要求：
+删除或标记：
+空文本
+非英文文本
+纯转发
+明显广告
+优惠券和折扣码
+与Lululemon无关的内容
+机器人重复内容
+完全重复帖子
+必须保留：
+not
+never
+no
+emoji
+hashtag
+问号
+感叹号
+引号
+大写字母信息
+替换：
+URL → <URL>
+用户名 → <USER>
+邮箱 → <EMAIL>
+同时保留：
+text_raw
+text_clean
+
+不得在最终数据中保留：
+用户名
+显示名称
+简介
+地址或位置
+使用：
+author_hash
+代替真实用户ID。
+
+输出文件内容要有：
+未经修改的原始API数据
+清洗后的帖子数据
+官方回应讨论串
+抓取时间、查询词、数量和错误日志
+每天抓到多少条数据
+
