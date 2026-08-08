@@ -32,7 +32,7 @@ LINKS_CSV = Path("links.csv")
 OUTPUT_DIR = Path("comments_out_api")
 PROJECT_META_DIR = Path("project_meta_api")
 PROGRESS_DIR = Path("indiegogo_main_api_progress")
-BROWSER_PORT = 4829
+BROWSER_PORT = 4830
 
 S_PENDING = "pending"
 S_DONE = "done"
@@ -49,6 +49,19 @@ class NoCommentsError(Exception):
     """项目页没有 Comments 按钮或评论数为 0。"""
     pass
 
+def is404(tab):
+    """判断当前页面是否为 404 页面（空链接）。"""
+    try:
+        title = tab.title
+        if title and '404' in title:
+            return True
+        html = tab.html
+        for marker in ('404: Page Not Found', 'Page Not Found', 'page-not-found'):
+            if marker in html:
+                return True
+    except Exception:
+        pass
+    return False
 
 def is_homepage(url):
     """判断 URL 是否为 Indiegogo 首页（被重定向后无效的项目页）。"""
@@ -84,22 +97,26 @@ def load_tasks():
     with LINKS_CSV.open("r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         rows = list(reader)
-    fieldnames = reader.fieldnames or ["link", "projectID", "status", "comment_count"]
+    fieldnames = reader.fieldnames or ["link", "sortId", "status", "comment_count"]
     # 兼容 comment_status -> status
     if "status" not in fieldnames and "comment_status" in fieldnames:
         for r in rows:
             r["status"] = r.get("comment_status", "")
         fieldnames.append("status")
-    # 兼容 id 列（main.py 格式）
-    if "id" not in fieldnames:
-        fieldnames.append("id")
+    # 统一 sortId：优先 sortId 列，其次旧 id 列（main.py 格式），再其次旧 projectID 列，最后用行索引
+    if "sortId" not in fieldnames:
+        fieldnames.append("sortId")
         for i, r in enumerate(rows):
-            r["id"] = str(i)
-    # 兼容 old 列
-    if "old" not in fieldnames:
-        fieldnames.append("old")
-        for r in rows:
-            r["old"] = ""
+            if r.get("id"):
+                r["sortId"] = r["id"]
+            elif r.get("projectID"):
+                r["sortId"] = r["projectID"]
+            else:
+                r["sortId"] = str(i)
+    # 移除已废弃的列（projectID / id），写回时不再输出
+    for col in ("projectID", "id"):
+        if col in fieldnames:
+            fieldnames.remove(col)
     return rows, fieldnames
 
 
@@ -112,12 +129,11 @@ def save_tasks(rows, fieldnames):
 
 
 # ==================== 认证：加载原链接 -> 重定向 -> 访问 /comments ====================
-def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
+def get_auth_from_browser(dp, link, save_project_id=None):
     """
     使用 DrissionPage 获取 cookie 和 commentThreadID。
     如果 link 已经是评论链接（含 /comments），直接访问；
     否则先打开项目原链接，重定向后再构造 /comments 链接访问。
-    若 is_old 为 True，则在保存项目元数据 JSON 后直接返回，不进入评论页。
     save_project_id 用于 JSON 文件名，默认使用从页面读取的 projectID。
     """
     tab = dp.get_tab()
@@ -128,6 +144,12 @@ def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
         print(f"[auth] 打开项目页: {link}")
         tab.get(link, timeout=10, retry=0)
         tab.scroll(500)
+
+        # 判断是不是空链接（404 页面）
+        is_404 = is404(tab)
+        if is_404:
+            print(f"[auth] 404 空链接: {tab.url}")
+            raise EmptyLinkError(f"404 空链接: {tab.url}")
 
         real_url = tab.url
         for i in range(10):
@@ -166,6 +188,7 @@ def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
         rewardData=''
 
         # 从 window.__INITIAL_STATE__ 读取项目核心数据
+        initial_state = None  # 保存原始 window 数据到 meta.raw
         try:
             initial_state = tab.run_js("return window.__INITIAL_STATE__")
             stats = initial_state.get("projectState", {}).get("statistics", {})
@@ -281,9 +304,33 @@ def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
             temp=nowELe.next()
             if temp:
                 statusText=temp.text
-        
 
-        # 保存项目元数据到 JSON
+        # 查找 Comments 按钮并读取应有评论数（先于元数据保存，meta 一次写入）
+        print("[auth] 查找 Comments 按钮...")
+        commentBtn = None
+        expected_count = None
+        try:
+            commentBtns = tab.eles("@@tag()=div@@class=gfu-navbar-link", timeout=2)
+            for commentBtnItem in commentBtns:
+                if 'Comments' in commentBtnItem.text:
+                    commentBtn = commentBtnItem
+                    break
+        except Exception:
+            commentBtn = None
+
+        if commentBtn:
+            btn_text = commentBtn.text or ''
+            digits = re.findall(r'\d+', btn_text)
+            if digits:
+                expected_count = int(digits[0])
+                print(f"[auth] Comments 按钮数字: {expected_count}")
+            else:
+                expected_count = 0
+                print("[auth] Comments 按钮无数字，标记 expected_count=0（无评论）")
+        else:
+            print("[auth] 未找到 Comments 按钮")
+
+        # 保存项目元数据到 JSON（expected_count 首次即写入，无需二次更新）
         meta = {
             "projectID": projectID,
             "phase": phase,
@@ -306,7 +353,9 @@ def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
             "tagTexts": tagTexts,
             "shortDescription": shortDescription,
             "projectStory": projectStory,
+            "expected_count": expected_count,
             "url": link,
+            "raw": initial_state,
         }
         PROJECT_META_DIR.mkdir(parents=True, exist_ok=True)
         json_name = save_project_id if save_project_id else projectID
@@ -318,41 +367,13 @@ def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
         time.sleep(0.5)
         tab.scroll(500)
 
-        if is_old:
-            print("[auth] old=true，跳过评论采集")
-            return {
-                "comment_thread_id": None,
-                "cookies": {},
-                "referer": comments_url,
-                "ts": time.time(),
-                "expected_count": None,
-            }
-
-        # 仿照 main.py 点击 Comments 按钮进入评论页
-        print("[auth] 查找 Comments 按钮...")
-        commentBtn = None
-        expected_count = None
-        try:
-            commentBtns = tab.eles("@@tag()=div@@class=gfu-navbar-link", timeout=2)
-            for commentBtnItem in commentBtns:
-                if 'Comments' in commentBtnItem.text:
-                    commentBtn = commentBtnItem
-                    break
-        except Exception:
-            commentBtn = None
-
-        if commentBtn:
-            btn_text = commentBtn.text or ''
-            digits = re.findall(r'\d+', btn_text)
-            if digits:
-                expected_count = int(digits[0])
-                print(f"[auth] Comments 按钮数字: {expected_count}")
-                commentBtn.click(by_js=True)
-                time.sleep(2)
-            else:
-                raise NoCommentsError("Comments 按钮无数字，视为无评论")
-        else:
+        # 仿照 main.py 点击 Comments 按钮进入评论页（复用上面找到的按钮）
+        if commentBtn is None:
             raise NoCommentsError("未找到 Comments 按钮")
+        if expected_count == 0:
+            raise NoCommentsError("Comments 按钮无数字，视为无评论")
+        commentBtn.click(by_js=True)
+        time.sleep(2)
 
         comments_url = tab.url
         print(f"[auth] 评论页 URL: {comments_url}")
@@ -411,13 +432,11 @@ def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
         "commentID": None,
         "parentID": None,
     }
-    test_resp = requests.post(
+    test_resp = post_with_retry(
         "https://www.indiegogo.com/api/comments/getComments",
         headers=headers,
         cookies=cookie_dict,
-        json=test_payload,
-        timeout=30,
-        impersonate="chrome",
+        payload=test_payload,
     )
     if test_resp.status_code != 200:
         print(f"[error] cookie 验证失败，状态码: {test_resp.status_code}")
@@ -435,6 +454,19 @@ def get_auth_from_browser(dp, link, is_old=False, save_project_id=None):
 
 
 # ==================== API 请求 ====================
+def post_with_retry(url, headers, cookies, payload, max_retries=4, timeout=30):
+    """POST 请求；429 限流时等待递增时长后重试，最多 max_retries 次。"""
+    resp = None
+    for attempt in range(1, max_retries + 1):
+        resp = requests.post(url, headers=headers, cookies=cookies, json=payload, timeout=timeout, impersonate="chrome")
+        if resp.status_code != 429:
+            return resp
+        wait = 10 * attempt + (hash(str(payload)) % 21)  # 递增: 10-30s, 20-40s, 30-50s, 40-60s
+        print(f"[retry] 429 限流(第{attempt}/{max_retries}次)，等待 {wait} 秒后重试...")
+        time.sleep(wait)
+    return resp
+
+
 def extract_total_count(data):
     """从 API 响应中尝试提取评论总数（应有评论数）。"""
     d = data.get("data") or {}
@@ -465,13 +497,7 @@ def fetch_page(auth, last_id=None, parent_id=None, fresh_comment_id=None):
         "commentID": None,
         "parentID": parent_id,
     }
-    resp = requests.post(url, headers=headers, cookies=auth["cookies"], json=payload, timeout=30, impersonate="chrome")
-    if resp.status_code == 429:
-        # 限流，等待 10-30 秒后重试一次
-        wait = 10 + (hash(str(payload)) % 21)  # 10 到 30 秒
-        print(f"[fetch] 429 限流，等待 {wait} 秒后重试...")
-        time.sleep(wait)
-        resp = requests.post(url, headers=headers, cookies=auth["cookies"], json=payload, timeout=30, impersonate="chrome")
+    resp = post_with_retry(url, headers=headers, cookies=auth["cookies"], payload=payload)
     time.sleep(1)  # 模拟自动化点击间隔
     if resp.status_code == 403:
         raise PermissionError("cookie 失效，请刷新浏览器后重试")
@@ -492,12 +518,7 @@ def fetch_authors(auth, author_ids):
     headers = DEFAULT_HEADERS.copy()
     headers["referer"] = auth["referer"]
     payload = {"authorIDs": author_ids, "commentThreadID": auth["comment_thread_id"]}
-    resp = requests.post(url, headers=headers, cookies=auth["cookies"], json=payload, timeout=30, impersonate="chrome")
-    if resp.status_code == 429:
-        wait = 10 + (hash(str(payload)) % 21)
-        print(f"[fetch] getCommentsAuthors 429 限流，等待 {wait} 秒后重试...")
-        time.sleep(wait)
-        resp = requests.post(url, headers=headers, cookies=auth["cookies"], json=payload, timeout=30, impersonate="chrome")
+    resp = post_with_retry(url, headers=headers, cookies=auth["cookies"], payload=payload)
     time.sleep(1)
     if resp.status_code != 200:
         raise RuntimeError(f"getCommentsAuthors 失败: {resp.status_code} {resp.text[:200]}")
@@ -610,7 +631,7 @@ def fetch_one_page(dp, task, out_path, progress=None, auth=None):
     为单个项目加载一页根评论 + 该页子评论，追加写入 CSV。
     返回 (是否还有更多, 当前已写入总数)
     """
-    project_id = task["projectID"] or ""
+    project_id = task["sortId"] or ""
     project_url = task["link"]
     if progress is None:
         progress = load_progress(project_id)
@@ -662,6 +683,7 @@ def fetch_one_page(dp, task, out_path, progress=None, auth=None):
 
 
 # ==================== 主流程 ====================
+
 def main():
     rows, fieldnames = load_tasks()
     for col in ["status", "comment_count", "actual_count", "备注"]:
@@ -707,28 +729,21 @@ def main():
             break
 
         task = rows[idx]
-        project_id = task["projectID"] or str(idx)
+        project_id = task["sortId"] or str(idx)
         project_url = task["link"]
         out_path = OUTPUT_DIR / f"comments_{project_id}.csv"
 
         print(f"\n[{idx}] 开始: {project_url}")
-        is_old = task.get("old") == "true"
-        if is_old:
-            print(f"[{idx}] old=true，仅采集项目元数据")
         try:
-            auth = get_auth_from_browser(dp, project_url, is_old=is_old, save_project_id=project_id)
-
-            # old=true 的项目只保存元数据，跳过评论采集
-            if is_old:
-                task["status"] = S_DONE
-                task["comment_count"] = "0"
-                task["actual_count"] = "0"
-                task["备注"] = "old项目-跳过评论"
-                save_tasks(rows, fieldnames)
-                print(f"[{idx}] old=true 项目元数据完成，跳过评论")
-                continue
+            auth = get_auth_from_browser(dp, project_url, save_project_id=project_id)
 
             progress = load_progress(project_id)
+            # 全量重采：重置进度，确保从头重新采集评论
+            # （旧项目 progress 的 root_finished=true 会导致 fetch_one_page 跳过评论采集）
+            progress["fresh_comment_id"] = None
+            progress["last_root_id"] = None
+            progress["root_finished"] = False
+            progress["written_count"] = 0
             progress["comment_thread_id"] = auth["comment_thread_id"]
             progress["cookies"] = auth["cookies"]
             progress["referer"] = auth["referer"]
