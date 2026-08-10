@@ -930,16 +930,25 @@ class MainWindow(QMainWindow):
         if clicked == merge_btn:
             default_path = os.path.join(default_dir, f'合并_{ts}.xlsx')
             path, _ = QFileDialog.getSaveFileName(self, "保存", default_path, "Excel (*.xlsx)")
-            if not path:
+            if not path or not path.strip():
                 return
+            # 确保路径是绝对路径
+            if not os.path.isabs(path):
+                path = os.path.abspath(path)
             try:
                 all_rows, dup = dedup_rows(self.tasks, done)
                 if not all_rows:
                     QMessageBox.warning(self, "提示", "去重后没有数据可导出")
                     return
-                write_xlsx_file(path, all_rows)
+                result_path = write_xlsx_file(path, all_rows)
+                # 验证文件是否真的被创建
+                if not os.path.exists(result_path):
+                    raise RuntimeError(f"文件写入失败，文件不存在: {result_path}")
+                file_size = os.path.getsize(result_path)
+                if file_size == 0:
+                    raise RuntimeError(f"文件大小为0，写入可能失败: {result_path}")
                 raw = sum(len(self.tasks[k]['data']) for k in done)
-                QMessageBox.information(self, "提示", f"原始 {raw} 条，去重后 {len(all_rows)} 条（去除 {dup} 条重复）\n已导出到:\n{path}")
+                QMessageBox.information(self, "提示", f"原始 {raw} 条，去重后 {len(all_rows)} 条（去除 {dup} 条重复）\n文件大小: {file_size:,} 字节\n已导出到:\n{path}")
             except RuntimeError as e:
                 QMessageBox.critical(self, "导出失败", str(e))
             except Exception as e:
@@ -977,11 +986,20 @@ class MainWindow(QMainWindow):
         safe_name = re.sub(r'[\\/:*?"<>|\r\n]', '_', kw)[:50]
         default_path = os.path.join(default_dir, f'{safe_name}_{ts}.xlsx')
         path, _ = QFileDialog.getSaveFileName(self, "导出", default_path, "Excel (*.xlsx)")
-        if not path:
+        if not path or not path.strip():
             return
+        # 确保路径是绝对路径
+        if not os.path.isabs(path):
+            path = os.path.abspath(path)
         try:
-            write_xlsx_file(path, data)
-            QMessageBox.information(self, "提示", f"导出成功\n文件: {path}")
+            result_path = write_xlsx_file(path, data)
+            # 验证文件是否真的被创建
+            if not os.path.exists(result_path):
+                raise RuntimeError(f"文件写入失败，文件不存在: {result_path}")
+            file_size = os.path.getsize(result_path)
+            if file_size == 0:
+                raise RuntimeError(f"文件大小为0，写入可能失败: {result_path}")
+            QMessageBox.information(self, "提示", f"导出成功\n文件大小: {file_size:,} 字节\n文件: {path}")
         except RuntimeError as e:
             QMessageBox.critical(self, "导出失败", str(e))
         except Exception as e:
