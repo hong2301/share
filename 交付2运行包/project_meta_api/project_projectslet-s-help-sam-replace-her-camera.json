@@ -1,0 +1,473 @@
+{
+  "projectID": 360266,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2014-03-14T22:55:48Z",
+  "campaignEnd": "2014-04-29T06:59:59Z",
+  "mj": 475,
+  "backers": 6,
+  "wcMj": 475,
+  "rewards": 4,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": 0,
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "Gratitude!__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Gratitude+__$50.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Gratitude ++__$75.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Gratitude +++__$100.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "Sam's Camera was tragically destroyed! Let's help her get a new one!",
+  "projectStory": "Project story\nCreator\nRichard Snyder\nmore infocontact\nCategory\nCamera Gear\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nWe all know that Sam and her camera are almost inseparable. Through photography Sam shows us how she sees the world. It is Sam’s art and she has shared it with us on many occasions. For years, her pictures have graced the official literature for the club where she works and have brightened our social media feeds.  \nMany of you also know that one of Sam’s favorite things to do is take her Yorkie, Crispy, for walks along the beach. On January 25, Sam, her husband Justin, and Crispy were at a beach in Santa Barbara. They socialized with other dog owners and enjoyed seeing the sun on the water. Sam took a number of pictures. To cross the beach, they had to go through an area where an estuary drains into the sea. Sam was concerned that it would be difficult for Crispy to cross on her own, so she slung her camera across her back and tried to carry Crispy through the area. After taking a few steps Sam unexpectedly stepped in a hole. The water was up to Sam’s waist and the current was very strong, the ground beneath Sam’s feet liquefied. Sam managed to hand Crispy to Justin just before getting swept down the beach. Fortunately, two other beach goers saw Sam and managed to pull her out of the water. Sam was soaked and covered in sand, but she was (and is) otherwise OK.  \nUnfortunately, her camera was not. It had been covered in sand and submerged in water when Sam was swept down the beach. When Sam got home, she tried putting the camera in rice with the hope that it would dry out. Unfortunately, this was not to be. Salt corrodes connectors and water is generally bad for electronics. The camera is completely ruined. The dollar value of the lost equipment is approximately $1,500.00, but the loss to Sam is greater than a dollar value can convey. It is not just an object, it is an extension of who she is and how she expresses herself. Because the cost of a replacement is high, it will take Sam quite a while to get a new camera.\nIt is incredibly fortunate that Sam, Justin, and Crispy came out of this OK. But, the loss of the camera hurts deeply. Let’s send some good karma Sam’s way by helping her get a replacement! Every little bit helps, and no donation is too small. With our help, Sam will be back taking photographs in no time. Please see the information on this page for instructions about how to contribute. If you can't contribute, please help get the word out by sharing the link to this page, or by asking others to contribute. \n\nThanks!",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/let-s-help-sam-replace-her-camera#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 6,
+        "backersCountOvertime": null,
+        "campaignDay": 4548,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 475,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 6,
+        "totalFundsGathered": 475
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 360266,
+      "followersCount": 10
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 360266,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project360266"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 423524,
+        "creatorName": "Richard Snyder",
+        "creatorUrlName": "richardsnyder",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Let's Help Sam Replace Her Camera!",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 360266,
+        "publishedDate": "2014-03-14T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "dc38e861-1206-42cb-87f8-66bbb8d086f8.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "let-s-help-sam-replace-her-camera",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/richardsnyder/let-s-help-sam-replace-her-camera"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 423524,
+        "creatorUrlBase": null,
+        "name": "Richard Snyder",
+        "urlName": "richardsnyder",
+        "description": "",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Richard Snyder",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2013-10-29T23:32:06Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/richardsnyder"
+      },
+      "creatorID": 423524,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2014-04-29T06:59:59Z",
+        "campaignEndScheduledAt": "2014-04-29T06:59:59Z",
+        "campaignGoal": 475,
+        "campaignStart": "2014-03-14T22:55:48Z",
+        "creator": {
+          "creatorID": 423524,
+          "creatorUrlBase": null,
+          "name": "Richard Snyder",
+          "urlName": "richardsnyder",
+          "description": "",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2013-10-29T23:32:06Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/richardsnyder"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "Sam's Camera was tragically destroyed! Let's help her get a new one!",
+        "subMerchantAccountHolderID": 357226,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 423524,
+        "creatorName": "Richard Snyder",
+        "creatorUrlName": "richardsnyder",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Let's Help Sam Replace Her Camera!",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 360266,
+        "publishedDate": "2014-03-14T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "dc38e861-1206-42cb-87f8-66bbb8d086f8.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "let-s-help-sam-replace-her-camera",
+        "version": 1
+      },
+      "projectID": 360266,
+      "projectPhaseChangedAt": "2025-11-27T12:20:41.643Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 360961,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 360961
+  }
+}

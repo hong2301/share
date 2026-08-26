@@ -1,0 +1,473 @@
+{
+  "projectID": 316290,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2013-05-06T22:58:16Z",
+  "campaignEnd": "2013-06-21T06:59:59Z",
+  "mj": 610,
+  "backers": 17,
+  "wcMj": 610,
+  "rewards": 8,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": "1",
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "Thumbs Up__$10.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Thumbs Up__$10.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Good Ride__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Good Ride__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Great Lift__$50.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Great Lift__$50.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Destinator__$100.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Destinator__$100.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "Hitchhiking for a cause. To build an Earthship Community center in Malawi Africa by raising money and awareness across the country.",
+  "projectStory": "Project story\nCreator\nErica Izor\nmore infocontact\nCategory\nEnvironment\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nThis October Earthship Biotecture is teaming up with The Kapita Development Committee (KDC) and Empower Malawi Limited- a local not for profit organization, to build a sustainable development epicenter for 38 villages and over 5,000 people in Malawi.\n \nNot only will the project include a community bank, a mini library, a dispensary, offices and a food bank, but the peoples of Malawi will be left with an invaluable skill, the ability to build and maintain sustainable autonomous structures that can be used as businesses or homes in order to put the power of their lives, back in their own hands.\nTo learn more about the project and see their official video:\nhttps://www.youtube.com/watch?v=-dKEuFCOhPA\nSo- in order to raise awareness and money, my goal is around a dollar a mile.. By hitchhiking from my hometown in Vermont to The Greater World Earthship Community outside Taos New Mexico. With a tire. \nWhy? Its necessary to not only help people in ways that truly benefit their community, but where the real growth continues to happen long after the initial help has gone. To give people the knowledge tools and resources to take their lives back and have their well being subject to no other power besides themselves.\nPlease Donate. Or Volunteer. A Greater World is Waiting.",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/tired-for-change#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 17,
+        "backersCountOvertime": null,
+        "campaignDay": 4860,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 610,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 17,
+        "totalFundsGathered": 610
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 316290,
+      "followersCount": 20
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 316290,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project316290"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 68,
+        "creatorID": 302880,
+        "creatorName": "Erica Izor",
+        "creatorUrlName": "ericaizor",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Tired For Change",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 316290,
+        "publishedDate": "2013-05-06T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "b130dc1a-b334-4f61-96dd-1df0541627a2.png",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "tired-for-change",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/ericaizor/tired-for-change"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/ericaizor/tired-for-change"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 302880,
+        "creatorUrlBase": null,
+        "name": "Erica Izor",
+        "urlName": "ericaizor",
+        "description": "Recent Earthship Biotecture Academy student, about to hitchhike across the country to raise money and awareness for an upcoming Earthship build in Malawi Africa.",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Erica Izor",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2013-05-03T20:05:00Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/ericaizor"
+      },
+      "creatorID": 302880,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2013-06-21T06:59:59Z",
+        "campaignEndScheduledAt": "2013-06-21T06:59:59Z",
+        "campaignGoal": 610,
+        "campaignStart": "2013-05-06T22:58:16Z",
+        "creator": {
+          "creatorID": 302880,
+          "creatorUrlBase": null,
+          "name": "Erica Izor",
+          "urlName": "ericaizor",
+          "description": "Recent Earthship Biotecture Academy student, about to hitchhike across the country to raise money and awareness for an upcoming Earthship build in Malawi Africa.",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2013-05-03T20:05:00Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/ericaizor"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "Hitchhiking for a cause. To build an Earthship Community center in Malawi Africa by raising money and awareness across the country.",
+        "subMerchantAccountHolderID": 313506,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 68,
+        "creatorID": 302880,
+        "creatorName": "Erica Izor",
+        "creatorUrlName": "ericaizor",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Tired For Change",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 316290,
+        "publishedDate": "2013-05-06T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "b130dc1a-b334-4f61-96dd-1df0541627a2.png",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "tired-for-change",
+        "version": 1
+      },
+      "projectID": 316290,
+      "projectPhaseChangedAt": "2025-11-26T10:32:52.527Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 317229,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 317229
+  }
+}

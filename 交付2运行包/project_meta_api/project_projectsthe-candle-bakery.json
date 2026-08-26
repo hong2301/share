@@ -1,0 +1,473 @@
+{
+  "projectID": 319333,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2013-05-24T07:34:30Z",
+  "campaignEnd": "2013-06-24T06:59:59Z",
+  "mj": 15,
+  "backers": 2,
+  "wcMj": 15,
+  "rewards": 8,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": 0,
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "Count me in__$10.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Sweet Treaty__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Samples Galore__$50.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Some Best Selling Treats__$100.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Personalized for You__$150.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Name my scent__$200.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Engrave you in The Wall!__$250.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | You GOT IT ALL!!!!__$500.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "One of a kind uniquely hand crafted scented soy candles! We design our candles in the life-like shapes of cupcakes, lattes, ice cream, parfaits and more.",
+  "projectStory": "Project story\nCreator\nTiffany Greenlee\nmore infocontact\nCategory\nLocal Businesses\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nThe Beginning \"Our Story\"\nThe Candle Bakery is a unique candle company based out of Memphis, Tn. I created my first candle prior to opening a booth in a new local Flea Market. Only after a few short months the flea market closed down, leaving its vendors no place to go! For us, fortunately our business was just starting to grow! So shortly after, we were invited to attend expo shows and other vendor events. Everyone that comes in contact with our products are blown away! Our candles are hand made in the shapes of cupcakes, pies, lattes, ice cream and more. \nOur products are currently featured in a local Natural Bath and Body Store and high end boutiques. Our business has grown so rapidly that we now have a demand and a desire to open our own local shop.\n \nThe Products\nOur products are made from a premium brand of 100% Soy. Our wicks are made from cotton and are 100% Lead free. All of our fragrances are premium quality. Each product that we create goes through a quality inspection. Our quality department consist of our children...Children are the most honest critic you will ever see. If our sons say \"No Mom it doesn't smell or look like the real one\", we melt it down and start all over. We take much pride in our work. The first candle company that creates candles that you don't even have to burn to smell them! HOW AWESOME IS THAT!!!\nwww.thecandlebakery.com\nWith The Candle Bakery you can have the best of both worlds...A Cupcake and A Candle!!! Introducing to you below a sample of our Famous Cupcake Candles\n \nThe Project and Funds\nWe are raising funds on Indiegogo to assist us with opening our local store, and to purchase more equipment. We currently are manufacturing from our home and we have outgrown the allotted space we have. We are seeking a facility to have production in the back and our retail store in the front. We currently have a potential location. All support counts and we would love for you to be a part of our journey and even a part of our history!\nA portion of all our sales are donated to The Autism Lives Foundation here in Memphis. This is a non-profit organization for individuals and families that are on The Autism Spectrum! The Candle Bakery are doing grand things! Never underestimate small beginnings! We're a small business operated by Gigantic Hearts! Your pledge will make a great impact no matter how big or small it may be!\nThank you and welcome to THE CANDLE BAKERY, where we convert ordinary candles into grand masterpieces!\n \nThe Perks/Rewards\nWe have created some awesome rewards for you! We have Our Exclusive Candle Bakery T-shirts, Gift Sets, Cupcake candles, Book marks and much more! We are very excited to get these rewards to you so that you too, experience the Joy of The Candle Bakery!",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/the-candle-bakery#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 2,
+        "backersCountOvertime": null,
+        "campaignDay": 4843,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 15,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 2,
+        "totalFundsGathered": 15
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 319333,
+      "followersCount": 6
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 319333,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project319333"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 64,
+        "creatorID": 312639,
+        "creatorName": "Tiffany Greenlee",
+        "creatorUrlName": "tiffanygreenlee",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "The Candle Bakery",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 319333,
+        "publishedDate": "2013-05-24T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "119da486-72c5-4c36-a463-e5c3a9f0ccb4.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "the-candle-bakery",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/tiffanygreenlee/the-candle-bakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/tiffanygreenlee/the-candle-bakery"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 312639,
+        "creatorUrlBase": null,
+        "name": "Tiffany Greenlee",
+        "urlName": "tiffanygreenlee",
+        "description": "I am Tiffany and I'm the owner of This Amazing Company by the name of The Candle Bakery. I enjoy creating these awesome candles. Making candles is very therapeutic for me. I enjoy the respond people give when they receive our products! I'm very passionate about our candles.\r\nI am a mother of 3 wonderful boys. I'm so grateful to be bless with such a great talent. I'm excited for you to experience the same joy that I feel when I'm in production. I hope that you enjoy your rewards and Thank you.",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Tiffany Greenlee",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2013-05-23T20:25:09Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/tiffanygreenlee"
+      },
+      "creatorID": 312639,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2013-06-24T06:59:59Z",
+        "campaignEndScheduledAt": "2013-06-24T06:59:59Z",
+        "campaignGoal": 15,
+        "campaignStart": "2013-05-24T07:34:30Z",
+        "creator": {
+          "creatorID": 312639,
+          "creatorUrlBase": null,
+          "name": "Tiffany Greenlee",
+          "urlName": "tiffanygreenlee",
+          "description": "I am Tiffany and I'm the owner of This Amazing Company by the name of The Candle Bakery. I enjoy creating these awesome candles. Making candles is very therapeutic for me. I enjoy the respond people give when they receive our products! I'm very passionate about our candles.\r\nI am a mother of 3 wonderful boys. I'm so grateful to be bless with such a great talent. I'm excited for you to experience the same joy that I feel when I'm in production. I hope that you enjoy your rewards and Thank you.",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2013-05-23T20:25:09Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/tiffanygreenlee"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "One of a kind uniquely hand crafted scented soy candles! We design our candles in the life-like shapes of cupcakes, lattes, ice cream, parfaits and more.",
+        "subMerchantAccountHolderID": 316548,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 64,
+        "creatorID": 312639,
+        "creatorName": "Tiffany Greenlee",
+        "creatorUrlName": "tiffanygreenlee",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "The Candle Bakery",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 319333,
+        "publishedDate": "2013-05-24T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "119da486-72c5-4c36-a463-e5c3a9f0ccb4.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "the-candle-bakery",
+        "version": 1
+      },
+      "projectID": 319333,
+      "projectPhaseChangedAt": "2025-11-26T10:55:06.207Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 320271,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 320271
+  }
+}

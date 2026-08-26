@@ -1,0 +1,16 @@
+python main_api.py start=0 stop=341 port=9001
+python main_api.py start=342 stop=683 port=9002
+python main_api.py start=684 stop=1025 port=9003
+python main_api.py start=1026 stop=1367 port=9004
+python main_api.py start=1368 stop=1709 port=9005
+python main_api.py start=1710 stop=2051 port=9006
+python main_api.py start=2052 stop=2393 port=9007
+python main_api.py start=2394 stop=2735 port=9008
+python main_api.py start=2736 stop=3077 port=9009
+python main_api.py start=3078 stop=3419 port=9010
+python main_api.py start=3420 stop=3761 port=9011
+python main_api.py start=3762 stop=4103 port=9012
+python main_api.py start=4104 stop=4445 port=9013
+python main_api.py start=4446 stop=4787 port=9014
+python main_api.py start=4788 stop=5129 port=9015
+python main_api.py start=5130 stop=5470 port=9016

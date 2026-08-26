@@ -1,0 +1,473 @@
+{
+  "projectID": 335685,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2013-09-12T20:21:33Z",
+  "campaignEnd": "2013-10-26T06:59:59Z",
+  "mj": 540,
+  "backers": 11,
+  "wcMj": 540,
+  "rewards": 0,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": 0,
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "",
+  "tagTexts": "other | ",
+  "shortDescription": "This Kappa Sigma chapter sponsors a local cancer patient from the area and rides a see-saw 72 hours straight.",
+  "projectStory": "Project story\nCreator\nNicholas Seyko\nmore infocontact\nCategory\nLocal Businesses\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nShort Summary\nWe are the local Kappa Sigma chapter in Greenville, PA. We were founded 1996, which is when we started this fundraising event. Every year, we spend 72 hours riding a 10-foot long See-Saw raising money for a local cancer patient. In the past 5 years, we've raised close to $13,000 for these patients treatments. By contributing to our cause, you will be helping us to pay for these expensive treatments for our recipients.This year, we have selected an 8 year old leukemia patient at Akron hospital as the beneficiary of our annual See-saw-athon.\nWe're hoping to raise as much money as we possibly can for this patient. These patients are going through so much more than any of us could ever imagine, and we need to help them. Whatever money we collect will go straight to this patient. We hope to cover as much of their treatment payments as possible. \nAs a local fraternity chapter, we do everything we can to help the community. This is just one of the many service projects we do throughout the year to contribute to the community. By donating to this See-Saw-a-thon, you are helping to make someone's life just a little bit easier.\nIf you are unable to donate to this fundraiser, please spread the word to anyone you can. This patient can use as much support as possible, and that's what we are trying to do. Please spread the word to whoever would like to donate. We appreciate you support.",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/thiel-college-kappa-sigma-see-saw-a-thon#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 11,
+        "backersCountOvertime": null,
+        "campaignDay": 4731,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 540,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 11,
+        "totalFundsGathered": 540
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 335685,
+      "followersCount": 13
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 335685,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project335685"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 64,
+        "creatorID": 385554,
+        "creatorName": "Nicholas Seyko",
+        "creatorUrlName": "nicholasseyko",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Thiel College Kappa Sigma See-Saw-a-thon",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 335685,
+        "publishedDate": "2013-09-12T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "f021c9fd-d060-4d33-b760-e62dd594fc7d.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "thiel-college-kappa-sigma-see-saw-a-thon",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/nicholasseyko/thiel-college-kappa-sigma-see-saw-a-thon"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 385554,
+        "creatorUrlBase": null,
+        "name": "Nicholas Seyko",
+        "urlName": "nicholasseyko",
+        "description": "",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Nicholas Seyko",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2013-09-12T19:20:03Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/nicholasseyko"
+      },
+      "creatorID": 385554,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2013-10-26T06:59:59Z",
+        "campaignEndScheduledAt": "2013-10-26T06:59:59Z",
+        "campaignGoal": 540,
+        "campaignStart": "2013-09-12T20:21:33Z",
+        "creator": {
+          "creatorID": 385554,
+          "creatorUrlBase": null,
+          "name": "Nicholas Seyko",
+          "urlName": "nicholasseyko",
+          "description": "",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2013-09-12T19:20:03Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/nicholasseyko"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "This Kappa Sigma chapter sponsors a local cancer patient from the area and rides a see-saw 72 hours straight.",
+        "subMerchantAccountHolderID": 332893,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 64,
+        "creatorID": 385554,
+        "creatorName": "Nicholas Seyko",
+        "creatorUrlName": "nicholasseyko",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Thiel College Kappa Sigma See-Saw-a-thon",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 335685,
+        "publishedDate": "2013-09-12T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "f021c9fd-d060-4d33-b760-e62dd594fc7d.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "thiel-college-kappa-sigma-see-saw-a-thon",
+        "version": 1
+      },
+      "projectID": 335685,
+      "projectPhaseChangedAt": "2025-11-26T13:03:48.673Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 336619,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 336619
+  }
+}

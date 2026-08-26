@@ -1,0 +1,473 @@
+{
+  "projectID": 327246,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2013-07-20T17:41:51Z",
+  "campaignEnd": "2013-08-22T06:59:59Z",
+  "mj": 950,
+  "backers": 8,
+  "wcMj": 950,
+  "rewards": 9,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": 0,
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "SVP Water Bottle__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | SVP Travel Mug__$50.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | SVP T-Shirt__$100.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | SVP Duffle Bag__$250.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | SVP Sweatshirt and T-Shirt__$500.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | SVP Fleece, Sweatshirt and Hat__$1,000.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Bronze__$2,500.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Silver__$5,000.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Gold__$7,500.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "SVP is an online platform empowering athletes around the world to visualize correct techniques and connect with sport specific experts.",
+  "projectStory": "Project story\nCreator\nRyan McCarthy\nmore infocontact\nCategory\nHealth & Fitness\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nWe are raising funds to take Sports Video Partners (SVP) through the next stage of development. We have proof of concept!!! \nNow we want to:\n1. Enhance the current Sports Video Partners platform with new features\n2. Develop a mobile app for Android devices \n3. Enhance our current iPhone/ iPad version\n4.  Build enhanced entitlement and reporting capabilities.\nLook, the youth sports market is enormous. It is widely dispersed and taps into the collective passion of athletes,parents, fans and friends. Billions of dollars are spent each year on teams, equipment and lessons yet there is no common platform to capture game action or instructional sessions. \n“10,000 Hours of Practice”\nIn the book Outliers, author Malcolm Gladwell says that it takes roughly ten thousand hours of practice to achieve mastery in a field. Rehearsing a flawed approach will slow or stunt the path of improvement. \n“Practice does not make perfect. Only perfect practice makes perfect.” Vince Lombardi\nSVP is the solution provider that helps everyone involved through visualization and video analysis : the athlete, family, fan, coach and instructor. By seeing the correct form (and being able to reference previous instruction) athletes can maximize the impact of their training. \nESPN was not a household name years ago. \nBe part of something special. \"SVP\" is positioned to be one of the most recognized brands around youth sports videos, training and instruction.\nRisks and challenges\nAs with any start-up there are definitely lessons learned. We launched version 1.0 of Sports Video Partners after having detailed feedback sessions from users and instructors that agreed to use a beta version. This led us to modify several things including adjusting our server configuration and adding a team coach module. Our main challenge was adjusting a process that impacted multiple components however one of our major focus areas was maintaining flexibility with our development design. Slight delays (2 weeks) but a better outcome.\nSubsequent to our launch of Version 1.0 we received additional feedback about new features and enhancements that would be helpful. We resolved to develop a mobile app for the iPhone first so we could get feedback prior to building an Android version. There are several improvements we will make with the Android version and have plans to develop an updated version of the iPhone app as well.\nThis is definitely a process vs. project i.e. it is never done. We will likely experience new challenges but we are highly confident that the SVP team has the diverse skill set necessary to find solutions to new problems. \u000b\nTo achieve success it is critical to both have an organized plan and remain flexible as feedback from your community identifies both opportunities and issues.",
+  "expected_count": 1,
+  "url": "https://www.indiegogo.com//projects/sports-video-partners#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 8,
+        "backersCountOvertime": null,
+        "campaignDay": 4785,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 950,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 8,
+        "totalFundsGathered": 950
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 327246,
+      "followersCount": 9
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 327246,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project327246"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 49,
+        "creatorID": 347471,
+        "creatorName": "Ryan McCarthy",
+        "creatorUrlName": "ryanmccarthy-3973823",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Sports Video Partners",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 327246,
+        "publishedDate": "2013-07-20T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "7de3563a-7188-4a47-914e-5d4df72526e3.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "sports-video-partners",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/ryanmccarthy-3973823/sports-video-partners"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/ryanmccarthy-3973823/sports-video-partners"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 347471,
+        "creatorUrlBase": null,
+        "name": "Ryan McCarthy",
+        "urlName": "ryanmccarthy-3973823",
+        "description": "",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Ryan McCarthy",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2013-07-16T23:14:51Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/ryanmccarthy-3973823"
+      },
+      "creatorID": 347471,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2013-08-22T06:59:59Z",
+        "campaignEndScheduledAt": "2013-08-22T06:59:59Z",
+        "campaignGoal": 950,
+        "campaignStart": "2013-07-20T17:41:51Z",
+        "creator": {
+          "creatorID": 347471,
+          "creatorUrlBase": null,
+          "name": "Ryan McCarthy",
+          "urlName": "ryanmccarthy-3973823",
+          "description": "",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2013-07-16T23:14:51Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/ryanmccarthy-3973823"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "SVP is an online platform empowering athletes around the world to visualize correct techniques and connect with sport specific experts.",
+        "subMerchantAccountHolderID": 324457,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 49,
+        "creatorID": 347471,
+        "creatorName": "Ryan McCarthy",
+        "creatorUrlName": "ryanmccarthy-3973823",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Sports Video Partners",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 327246,
+        "publishedDate": "2013-07-20T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "7de3563a-7188-4a47-914e-5d4df72526e3.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "sports-video-partners",
+        "version": 1
+      },
+      "projectID": 327246,
+      "projectPhaseChangedAt": "2025-11-26T11:55:17.91Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 328181,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 328181
+  }
+}

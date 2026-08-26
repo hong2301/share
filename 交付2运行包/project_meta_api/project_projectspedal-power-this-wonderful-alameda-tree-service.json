@@ -1,0 +1,467 @@
+{
+  "projectID": 166281,
+  "phase": 20,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2016-08-25T07:05:52Z",
+  "campaignEnd": "2016-10-02T06:59:59Z",
+  "mj": 2916,
+  "backers": 60,
+  "wcMj": 2916,
+  "rewards": 4,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": "4",
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Funded\nAfter successful crowdfunding Indiegogo is collecting funds. Learn more\nFollow to get updates",
+  "rewardData": "10% off for $5 &/or sharing__$5.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Invitation to our launch party__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | In Person Consultation__$75.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Tree &/or Shrub Pruning__$150.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "bikes | ",
+  "shortDescription": "In need of a custom bicycle trailer to pedal power my small tree business in Alameda California!",
+  "projectStory": "Project story\nCreator\nMichael Thurman\nmore infocontact\nCategory\nEnvironment\nTags\nbikes\nBacking information\nCrowdfunding risks\nlearn more\nVisit us \nat http://www.thealamedaaesthetic.com\n\n\nSummary\n\n\nI grew up in the Napa and Sonoma Valleys, roaming and exploring the outdoors with my father and developing a deep intimacy with and adoration for the natural world.\nAfter serving in the Air Force, going back to school for arboriculture and with trees and the design of nature as my calling, I have endeavored to create an exceptional livelihood in my home region of Northern California and my beloved community of Alameda.\nI love Alameda, pruning trees & riding my bicycle. My dream job is pruning trees on my bicycle in Alameda. To do this, I need a custom made bicycle trailer. With your help we can make it happen. \nBy donating you will help a dream job come true and start a hyper-local ecological business in Alameda! \n\n\nWhat We Need & What You Get\n\n\nI need a custom made bicycle trailer capable of hauling all my tools plus 600lbs of tree debris. It will be 8 feet long, 30 inches high and wide. I already have a fabricator and the design ready to go. \n\n\nIn addition to contributing to a hyper-local ecological business model that improves the community by promoting the beauty and importance of trees as well as the value of bicycling, we have other incentives for your donation. For a donation of only $5 &/or simply sharing this campaign with friends, you get a 10% discount on any of my services in the future (if you have tree(s) in the local area). At least a $25 donation gets you an invitation to our business launch party. At least $75 gets you an in person consultation (if you have tree(s) in the local area) plus an invitation to our launch party. A donation of $150 plus gets you an hour of small tree or shrub pruning/demonstration/consultation (if you have tree(s) in the local area) and a launch party invitation. \n\n\nIf the funding goal is not reached we will still be contributing the funds towards greening the business in furtherance of obtaining the bicycle trailer to pedal power aesthetic small tree pruning in Alameda. \n\n\nOther Ways You Can Help\n\n\n\nShare this campaign! Especially with your Alameda or San Francisco Bay area friends.\nSince the business is just starting and is not yet well known, please spread the word by visiting and sharing http://www.thealamedaaesthetic.com. Subscribe to my tree blog and follow / share us on social media.",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/pedal-power-this-wonderful-alameda-tree-service#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 60,
+        "backersCountOvertime": null,
+        "campaignDay": 3654,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 2916,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 60,
+        "totalFundsGathered": 2916
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 166281,
+      "followersCount": 59
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 166281,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project166281"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 68,
+        "creatorID": 1201774,
+        "creatorName": "Michael Thurman",
+        "creatorUrlName": "michaelthurman-14755569",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Pedal Power This Wonderful Alameda Tree Service!",
+        "originalType": 1,
+        "phase": 20,
+        "projectID": 166281,
+        "publishedDate": "2016-08-25T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "d0661dee-224b-4c7e-ad22-2b473f18daba.jpg",
+        "tileImageUrl": null,
+        "type": 1,
+        "urlName": "pedal-power-this-wonderful-alameda-tree-service",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/michaelthurman-14755569/pedal-power-this-wonderful-alameda-tree-service"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 1201774,
+        "creatorUrlBase": null,
+        "name": "Michael Thurman",
+        "urlName": "michaelthurman-14755569",
+        "description": null,
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Michael Thurman",
+          "hasMissingData": true,
+          "legalEntityName": "[company name]",
+          "legalEntityType": 0
+        },
+        "status": 1,
+        "createDate": "2016-08-08T05:12:43Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/michaelthurman-14755569"
+      },
+      "creatorID": 1201774,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 2,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2016-10-02T06:59:59Z",
+        "campaignEndScheduledAt": "2016-10-02T06:59:59Z",
+        "campaignGoal": 2916,
+        "campaignStart": "2016-08-25T07:05:52Z",
+        "creator": {
+          "creatorID": 1201774,
+          "creatorUrlBase": null,
+          "name": "Michael Thurman",
+          "urlName": "michaelthurman-14755569",
+          "description": null,
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2016-08-08T05:12:43Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/michaelthurman-14755569"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "In need of a custom bicycle trailer to pedal power my small tree business in Alameda California!",
+        "subMerchantAccountHolderID": 164095,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 68,
+        "creatorID": 1201774,
+        "creatorName": "Michael Thurman",
+        "creatorUrlName": "michaelthurman-14755569",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Pedal Power This Wonderful Alameda Tree Service!",
+        "originalType": 1,
+        "phase": 20,
+        "projectID": 166281,
+        "publishedDate": "2016-08-25T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "d0661dee-224b-4c7e-ad22-2b473f18daba.jpg",
+        "tileImageUrl": null,
+        "type": 1,
+        "urlName": "pedal-power-this-wonderful-alameda-tree-service",
+        "version": 1
+      },
+      "projectID": 166281,
+      "projectPhaseChangedAt": "2016-10-02T06:59:59Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 0,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 20,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": null,
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 166443,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 166443
+  }
+}

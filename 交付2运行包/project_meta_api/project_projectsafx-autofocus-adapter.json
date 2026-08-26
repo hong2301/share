@@ -1,0 +1,473 @@
+{
+  "projectID": 14769,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2020-10-27T00:54:08Z",
+  "campaignEnd": "2020-11-26T07:59:59Z",
+  "mj": 72398,
+  "backers": 237,
+  "wcMj": 56016,
+  "rewards": 2,
+  "tags": 1,
+  "medias": 10,
+  "mediaUrls": "https://cdn.images.indiegogo.com/richtextimage/richtext/301c65e7-4b7f-4637-84ef-dc1d30098aea.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/da02ccc4-58ab-418a-8d70-bd5b53cdc02e.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/da9db904-fd4e-4f6c-b26f-3e5b279d5dd7.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/43b31d10-dc40-458e-830d-a88570cf7e67.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/29d6be78-ccf3-4e21-8113-381e85db3a49.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/97771660-6b75-4ecc-9518-ab1c519177d5.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/06cde58e-a5a4-4325-bcb4-b539f37f8482.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/449834ce-2a0d-4d32-88ee-b246441e830f.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/90ff4586-b359-4a58-af08-4f6b4bb14a2e.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/e8e69192-e7cc-44e9-a5f5-22cb148c7aff.jpg | ",
+  "updates": "29",
+  "FAQ": 0,
+  "currency": "EUR",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "AFX System - Wave 3__€290.00(https://cdn.images.indiegogo.com/productimage/projects/14769/da8c6e36-fa15-4f6e-90b3-d71c11dc47ec.jpg) | AFX System - Wave 4__€310.00(https://cdn.images.indiegogo.com/productimage/projects/14769/b7732b95-f72d-456c-9e86-f9bdbe19226e.jpg) | ",
+  "tagTexts": "bluetooth | ",
+  "shortDescription": "AFX is a self contained LIDAR based system for manual and autofocus control of cinema camera lenses.",
+  "projectStory": "Project story\nCreator\nCDA Tek\nmore infocontact\nCategory\nCamera Gear\nTags\nbluetooth\nBacking information\nCrowdfunding risks\nlearn more\nIntroducing AFX by CDA-TEK\nThe AFX is a comprehensive auto and manual focus control system for Blackmagic Pocket 4K and 6K cinema cameras as well as offering motor based control of manual focus lenses on all other cameras.\nFor Blackmagic Pocket 4K and 6K cinema cameras using native MFT/EF electronic lenses, there is no requirement for external focus motors and the AFX also supports adapted EF lenses on the Pocket 4K with compatible adapters.\nPowered by its own internal rechargeable battery, the AFX is a self contained unit which requires no cabling and communicates wirelessly over Bluetooth to your camera.\nOriginally conceived as an add on to our PBC controller, the AFX now also incorporates the full capabilities of the PBC so is a completely self contained system.\nIn addition, the AFX also incorporates an interface for Tilta Nucleus M and N motors to provide its auto and manual focus functionality to any lens on any camera.\nAt the heart of the AFX is a LIDAR sensor that constantly measures the distance to the nearest central object, which the AFX then processes to move the focus position of the lens to the correct calibrated position.\nUsing this method, the lens moves immediately and consistently to the focus position, so unlike other image based auto focus systems, not only is there no focus hunting but its performance is not impacted in low light.\nIncluded with the AFX is a compact wireless remote which allows you to control its different operational modes and functions as well as manually control focus.\nThis compact controller can also be used to change an array of settings on your Blackmagic Pocket Cinema Camera such as aperture, ISO and white balance.\nThe AFX screen provides full monitoring of the current status of these parameters as well as an alternative measured distance indicator screen.\nThe AFX provides two auto focus modes; AFS and AFC.\nIn AFS mode, the lens is refocused on the nearest central object when the trigger on the controller is pressed and remains at that position until the trigger is pressed again or you manually refocus.\nIn AFC mode, the lens is continuously re-focused on the nearest central object enabling you to track a person walking towards the camera for example.\nUsing the controller you can instantly switch between AFS, AFC and manual focus modes and to provide smoother focus changes, you are also able to select four automatic transition times between focus points in the two auto modes.\nThe AFX also has an additional transition mode called Natural that automatically adjusts the focus transition time dependent upon the distance between the current and new focus position.\nTo provide you with even more focus assistance functionality, the AFX has a mode called QuadLock.\nUsing QuadLock, you can quickly store four focus positions using either the LIDAR sensor or manually and then switch between them instantly or with the currently set transition time applied.\nAn additional switched option in QuadLock allows you to manually move focus between the stored positions whilst automatically preventing overshoot when the target position is achieved.\nTo use the focus functionality of the AFX with your manual lenses, it is simply connected to a Tilta focus motor using an included cable and adapter. Users of Nucleus M motors will require an additional adapter that is now listed as an additional perk item and will ship at the same time as your AFX.\n \nAll of the same manual and autofocus modes and features of the AFX are available when using the motor option irrespective of the camera and lens that you use it with.\nFor the many users of Blackmagic Pocket Cinema cameras who also like to use manual focus lenses, the AFX has a special Hybrid mode to enable lens control with a motor whilst still being able to wirelessly change functions such as ISO, White Balance and Shutter on the camera.\nAlthough the obvious standout feature of the AFX is providing single and continuous Autofocus for camera/lens combinations that do not have the facility natively, it is important to note that the nature of the sensor is to provide centre point detection only.\nWith this in mind, we have designed the AFX to be a complete focusing system with additional features such as manual control and the QuadLock system to supplement its autofocus capabilities and be a more rounded focus assisting tool.\nMMX Multi Motor Add-On\nThe MMX is an optional expansion add on for the AFX focusing system and allows you to control up to three Tilta Nucleus N or Nucleus M motors.\nThis means that using the MMX, you can not only control the focus of your manual lens from the AFX but also, for example, its zoom and iris controls.\nThe MMX has two operational modes, called Single and Dual.\nIn Single mode, each motor is individually calibrated and they are then operated independently.\nIn Dual mode, two of the motors are used to create a bonded calibration that would typically be used for a dual focus anamorphic setup and effectively transforming it into a single focus system.\nAnd of course this ganged control of dual focus anamorphic lens systems also means they can now also benefit from the the auto focus capabilities offered by the AFX.\nFor iris control, you are also able to calibrate one of your motors to the T stops on your lens and then use the controller on the AFX to switch between them as though it had electronic aperture control.\nThe MMX can control any combination of Tilta Nucleus N or M motors on its three ports and is powered by the motor on port one.\nThe MMX connects to the AFX wirelessly over Bluetooth Low Energy but can also be used with a wired connection.\nWhen using the Tilta Nucleus N motors, you can use the included interface cable and users with Nucleus M motors will require an additional interface cable.\nThe MMX is available as a pre-order perk now for €105 and will be available to ship with your AFX.\n \nWhat We Need & What You Get\nThe AFX is feature complete from a software and hardware perspective and are now seeking funding purely for production rather than development.\nWe have have two levels of perks, each with a different discount level from the retail price of the AFX.\nThe first of these is exclusively for existing owners of our PBC unit, so please do not choose this option if you do not own a PBC as it will be rejected.\nAbout CDA-TEK\nWe are a small company based in Dublin, Ireland and specialise in developing custom camera control solutions.\nOur 3C Android app was made available for sale in early 2019 and is a comprehensive remote control system for the Blackmagic Pocket4K Cinema Camera and has received several feature upgrades including the integration of the Tilta Nucleus Nano focus wheel.\nIn December 2019, we launched our PBC pocket Bluetooth controller for Blackmagic Pocket 4K and Pocket 6K cameras and these are in use by customers in over twenty different countries.\nRisks & Challenges\nThe AFX is feature complete from a software and hardware perspective so is a low risk project to support as the funding is purely for production of the units.\nAs with every project as it enters production, there may be unexpected challenges in terms of component supply and shipping delays from suppliers but as we do not have a reliance on a single supplier for any component, we are confident that this risk has been mitigated as much as possible.\nThis multi-source supplier policy ensured that all of our PBC products that were backed in our two previous Indiegogo campaigns shipped exactly on time.\nHowever, in the current worldwide situation with COVID-19, it is an inevitability that supply times are always subject to change and review but those will always be communicated honestly and in a timely fashion to all backers.",
+  "expected_count": 103,
+  "url": "https://www.indiegogo.com//projects/afx-autofocus-adapter#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 191,
+        "backersCountOvertime": null,
+        "campaignDay": 2130,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": "2020-10-27T02:52:57Z",
+        "fundsGathered": 56016,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 237,
+        "totalFundsGathered": 72398
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 14769,
+      "followersCount": 469
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 14769,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project14769"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 1590937,
+        "creatorName": "CDA Tek",
+        "creatorUrlName": "cdatek",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "AFX - Autofocus Adapter",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 14769,
+        "publishedDate": "2020-10-26T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "71135470-b0f7-4d0f-94fc-335035d152a5.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "afx-autofocus-adapter",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/cdatek/afx-autofocus-adapter"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/cdatek/afx-autofocus-adapter"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 1590937,
+        "creatorUrlBase": null,
+        "name": "CDA Tek",
+        "urlName": "cdatek",
+        "description": null,
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "CDA Tek",
+          "hasMissingData": false,
+          "legalEntityName": "CDA-TEK Limited",
+          "legalEntityType": 0
+        },
+        "status": 1,
+        "createDate": "2019-11-28T14:53:55Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/cdatek"
+      },
+      "creatorID": 1590937,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 2,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2020-11-26T07:59:59Z",
+        "campaignEndScheduledAt": "2020-11-26T07:59:59Z",
+        "campaignGoal": 500,
+        "campaignStart": "2020-10-27T00:54:08Z",
+        "creator": {
+          "creatorID": 1590937,
+          "creatorUrlBase": null,
+          "name": "CDA Tek",
+          "urlName": "cdatek",
+          "description": null,
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2019-11-28T14:53:55Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/cdatek"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "AFX is a self contained LIDAR based system for manual and autofocus control of cinema camera lenses.",
+        "subMerchantAccountHolderID": 14764,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 1590937,
+        "creatorName": "CDA Tek",
+        "creatorUrlName": "cdatek",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "AFX - Autofocus Adapter",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 14769,
+        "publishedDate": "2020-10-26T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "71135470-b0f7-4d0f-94fc-335035d152a5.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "afx-autofocus-adapter",
+        "version": 1
+      },
+      "projectID": 14769,
+      "projectPhaseChangedAt": "2021-07-13T00:00:00Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 2,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.61338404,
+        "relativeFactorWithCommission": 0.59667708,
+        "relativeToCurrencyID": 2,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.61869702,
+        "relativeFactorWithCommission": 0.60184535,
+        "relativeToCurrencyID": 2,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.06826194,
+        "relativeFactorWithCommission": 1.03916531,
+        "relativeToCurrencyID": 2,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.1337739,
+        "relativeFactorWithCommission": 0.13013025,
+        "relativeToCurrencyID": 2,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.16890707,
+        "relativeFactorWithCommission": 1.13706913,
+        "relativeToCurrencyID": 2,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.10940081,
+        "relativeFactorWithCommission": 0.10642102,
+        "relativeToCurrencyID": 2,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.0918105,
+        "relativeFactorWithCommission": 0.08930982,
+        "relativeToCurrencyID": 2,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.51158746,
+        "relativeFactorWithCommission": 0.49765317,
+        "relativeToCurrencyID": 2,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.23226106,
+        "relativeFactorWithCommission": 0.22593488,
+        "relativeToCurrencyID": 2,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.09036036,
+        "relativeFactorWithCommission": 0.08789918,
+        "relativeToCurrencyID": 2,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.67503713,
+        "relativeFactorWithCommission": 0.6566509,
+        "relativeToCurrencyID": 2,
+        "shortName": "SGD",
+        "symbol": "S$"
+      },
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "relativeFactor": 0.85748585,
+        "relativeFactorWithCommission": 0.8341302,
+        "relativeToCurrencyID": 2,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "projectCurrencyID": 14765,
+        "shortName": "EUR",
+        "symbol": "€"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 14765
+  }
+}

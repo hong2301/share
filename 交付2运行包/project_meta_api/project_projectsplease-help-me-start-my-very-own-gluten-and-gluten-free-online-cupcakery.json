@@ -1,0 +1,473 @@
+{
+  "projectID": 371672,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2014-04-22T07:53:13Z",
+  "campaignEnd": "2014-06-22T06:59:59Z",
+  "mj": 46,
+  "backers": 4,
+  "wcMj": 46,
+  "rewards": 6,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": 0,
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "Support the Cause!__$1.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | A dozen cupcakes!__$15.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 2 dozen cupcakes__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 2 dozen cupcakes__$40.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 2 dozen cupcakes__$55.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 20% Discount__$70.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "Hey there! It's Britney a.k.a. Brii the Baker, and it would be amazing if you could help me out in starting up my Online Cup Cakery!!",
+  "projectStory": "Project story\nCreator\nBrii The Baker\nmore infocontact\nCategory\nLocal Businesses\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nShort Summary\nBrii the Baker here, and I would absolutely LOVE to make my hobby into a Part Time Gig!!!  I absolutely love to bake and I've noticed and heard that cupcakes are my specialty!! Cupcakes are just the right amount of love, sweet, and fun any person could have.  My all time favorite cupcakes to make are Cookies and Cream cupcakes; but I'd love an excuse to make all kinds of cupcakes I've thought up, concocted or swapped!!\nBasically, for everything (web site, supplies, commercial kitchen, branding, shipping items) I would need $4,400. Eeks! Slightly steep but well worth it!!  I will use absolutely only the freshest ingredients (such as in my strawberry lemonade or lemon basil cupcakes, or a better chocolate for the cookies and cream cupcakes; and even the finest top quality gluten free flour for the gluten sensitive). I will also need to pay rent at the commercial kitchen I would rent (Commercial Kitchens, thank you for being amazing) and finally, money for the most comprehensive, kick-ass cupcake site you've ever seen!\nI'm a girl who loves to feed the world and feels she does it best through cupcakes. I have yet to disappoint with any cupcake I've made, and I would just love to prove myself on a national scale that I am amazing at what I do.  Any money funded (thank you in advanced!!) yet hasn't reached my goal, will stay in my savings account until I reach my goal in some form or another.\nCan't contribute?  That's quite alright!! https://twitter.com/Brii_The_Baker and we can swap recipes and discuss baking. :)",
+  "expected_count": 1,
+  "url": "https://www.indiegogo.com//projects/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 4,
+        "backersCountOvertime": null,
+        "campaignDay": 4510,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 46,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 4,
+        "totalFundsGathered": 46
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 371672,
+      "followersCount": 8
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 371672,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project371672"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 64,
+        "creatorID": 462373,
+        "creatorName": "Brii The Baker",
+        "creatorUrlName": "briithebaker",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Please help me start my very own Gluten and gluten-free online Cupcakery!!",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 371672,
+        "publishedDate": "2014-04-22T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "f61cc5de-6f9c-407b-810a-725c1206abce.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/briithebaker/please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 462373,
+        "creatorUrlBase": null,
+        "name": "Brii The Baker",
+        "urlName": "briithebaker",
+        "description": "",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Brii The Baker",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2013-12-22T18:18:40Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/briithebaker"
+      },
+      "creatorID": 462373,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2014-06-22T06:59:59Z",
+        "campaignEndScheduledAt": "2014-06-22T06:59:59Z",
+        "campaignGoal": 46,
+        "campaignStart": "2014-04-22T07:53:13Z",
+        "creator": {
+          "creatorID": 462373,
+          "creatorUrlBase": null,
+          "name": "Brii The Baker",
+          "urlName": "briithebaker",
+          "description": "",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2013-12-22T18:18:40Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/briithebaker"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "Hey there! It's Britney a.k.a. Brii the Baker, and it would be amazing if you could help me out in starting up my Online Cup Cakery!!",
+        "subMerchantAccountHolderID": 368629,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 64,
+        "creatorID": 462373,
+        "creatorName": "Brii The Baker",
+        "creatorUrlName": "briithebaker",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Please help me start my very own Gluten and gluten-free online Cupcakery!!",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 371672,
+        "publishedDate": "2014-04-22T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "f61cc5de-6f9c-407b-810a-725c1206abce.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "please-help-me-start-my-very-own-gluten-and-gluten-free-online-cupcakery",
+        "version": 1
+      },
+      "projectID": 371672,
+      "projectPhaseChangedAt": "2025-11-27T13:55:15.777Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 372364,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 372364
+  }
+}

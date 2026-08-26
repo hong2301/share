@@ -1,0 +1,473 @@
+{
+  "projectID": 263205,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2012-02-04T23:38:09Z",
+  "campaignEnd": "2012-04-05T06:59:59Z",
+  "mj": 190,
+  "backers": 9,
+  "wcMj": 190,
+  "rewards": 5,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": "1",
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "Thank you!__$1.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Card!__$5.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Print of your choice!__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | More Prints!__$50.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | Contributor package!__$100.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "My camera is everything to me, and recently it dropped but 3 feet and will no longer work. I rely on this camera for not only income, but for my personal uses.",
+  "projectStory": "Project story\nCreator\nJessica Hess\nmore infocontact\nCategory\nCamera Gear\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nOur Story\nMy name is Jessica Hess, and I go by JNH Photography. I love photography, and it's a HUGE part of my life. I always struggled to produce a quality in my work that I was happy with, because I've never had the funds to back up my ideas or to fund my equipment. Last year, when we received tax returns my mother was generous enough to loan me money to buy a used Nikon D2X. It's the first and only real professional camera I've ever owned. because it's the first time I found such a great deal as well as had some way to make the purchase. \nRecently, my camera fell just three feet and will no longer turn on. I rely on this camera to not only capture memories with my son, but I also use it as a source of income. My boyfriend and I have recently lost our jobs, and we're currently in a financial hardship. I have $0 to my name, and therefor have absolutely no way to have my camera repaired or even so much as looked at. This camera means more to me than I could ever fully express, it's something I wanted for so many years, and all of my hard work is gone if I can't continue to make my art! It's my livelihood, and photography is my escape from the world and it's hardships. If I can't get this camera fixed, I fear I'll have to give up photography entirely.\n \nWhat We Need & What You Get\nI need just $500 to get my camera repaired. I'm not asking for a new camera, or even enough to get a better lens once it's fixed, I only want my camera fixed and working again. It means a great deal to me that I do this, for I've never cared so much about any other material object in my entire life.\nEveryone who donates will be donating to a good cause, and I appreciate every single penny anyone can help me with. Even donating just $1 puts me that much closer to my goal of having the one object of value returned to me.\nI also want to point out that everyone who donates will be rewarded in some way. I know I can't afford to offer much, but I still hope I can make the perks worth it for you guys.\n \nOther Ways You Can Help\nYou can really help me by spreading the word around, and using the share tools to show this campaign to your friends. The more people that see it, the more likely I can get my camera fixed and continue doing the one thing that makes me truly happy.\nI thank you all for taking the time to read this.",
+  "expected_count": 5,
+  "url": "https://www.indiegogo.com//projects/help-jnh-fix-her-camera#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 9,
+        "backersCountOvertime": null,
+        "campaignDay": 5317,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 190,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 9,
+        "totalFundsGathered": 190
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 263205,
+      "followersCount": 10
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 263205,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project263205"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 57686,
+        "creatorName": "Jessica Hess",
+        "creatorUrlName": "jessicahess",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Help JNH Fix Her Camera!",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 263205,
+        "publishedDate": "2012-02-04T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "c43b1018-90b0-41fd-a854-e2b68772a1f2.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "help-jnh-fix-her-camera",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/jessicahess/help-jnh-fix-her-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/jessicahess/help-jnh-fix-her-camera"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 57686,
+        "creatorUrlBase": null,
+        "name": "Jessica Hess",
+        "urlName": "jessicahess",
+        "description": "My name is Jessica Hess, but I go by JNH Photography (in the photography community anyways!).<br>Photography is my passion, as well as my wonderful 4 year old son. I enjoy anything and everything artistic!<br>",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Jessica Hess",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2012-02-04T22:59:00Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/jessicahess"
+      },
+      "creatorID": 57686,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2012-04-05T06:59:59Z",
+        "campaignEndScheduledAt": "2012-04-05T06:59:59Z",
+        "campaignGoal": 190,
+        "campaignStart": "2012-02-04T23:38:09Z",
+        "creator": {
+          "creatorID": 57686,
+          "creatorUrlBase": null,
+          "name": "Jessica Hess",
+          "urlName": "jessicahess",
+          "description": "My name is Jessica Hess, but I go by JNH Photography (in the photography community anyways!).<br>Photography is my passion, as well as my wonderful 4 year old son. I enjoy anything and everything artistic!<br>",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2012-02-04T22:59:00Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/jessicahess"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "My camera is everything to me, and recently it dropped but 3 feet and will no longer work. I rely on this camera for not only income, but for my personal uses.",
+        "subMerchantAccountHolderID": 260526,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 57686,
+        "creatorName": "Jessica Hess",
+        "creatorUrlName": "jessicahess",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Help JNH Fix Her Camera!",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 263205,
+        "publishedDate": "2012-02-04T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "c43b1018-90b0-41fd-a854-e2b68772a1f2.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "help-jnh-fix-her-camera",
+        "version": 1
+      },
+      "projectID": 263205,
+      "projectPhaseChangedAt": "2025-11-25T12:16:49.313Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 264240,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 264240
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "projectID": 230835,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2015-10-09T02:23:04Z",
+  "campaignEnd": "2015-11-08T07:59:59Z",
+  "mj": 72,
+  "backers": 3,
+  "wcMj": 72,
+  "rewards": 4,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": 0,
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "> 1 Dedicated Coral !__$12.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 1 Coral + 1 T-Shirt !__$30.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 1 Coral + 1 Dive + 1 T-Shirt !__$65.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 1 Structure + 1 Dive + 1 T-S !__$900.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "Coral Reef Creation will be a solution to protect marine environment which is currently suffering.",
+  "projectStory": "Project story\nCreator\nJean-Brice GARITO\nmore infocontact\nCategory\nEnvironment\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\n(Version Francaise sous le texte anglais)\nSSS Phuket have decided to create the Coral Reef Creation Project in Thailand to fight against the threats (pollution, boats, human activity, global warming, fishing…) which are causing the marine environment to deteriorate. \nWe have the know- how to restore coral reefs. We did some research on restoration and underwater tests. We would be working closely and  in cooperation with the Thai government to create a brand new area of natural coral reef in Kata Beach. \n Before we go any deeper into the subject, we have to emphasize that NO damage is done to the environment: We would not use any kinds of machineries and we would not destroy or kill anything. \nBrief description of our restoration method:  \n> First, we would create steel structures and sink them underwater. \n> Secondly, we would plant the coral pieces onto the structures.   \n> Thirdly, we would make sure the first links of the food chain are found inside the artificial reef.\n> Next, we would then monitor the reef once a week to monitor the coral’s development . The implementation would take around 2 weeks.  Within 6 months, a full-fledged marine ecosystem would be created with a healthy reef and a complete food chain. \nSSS Phuket is a PADI Scuba Diving and Surfing center and we have a dedicated team for the project to take care of all the settlement and the progressive monitoring. \nTime is ticking , and we urge each and everyone of you to play a part to protect the marine environment and to preserve the beauty of Phuket’s reef for the many generations to come.\n(French Version)\nNous avons décidé de créer la Creation de Récif Corallien en Thaïlande afin de lutter contre tous les facteurs qui le menace (pollution, bateaux, activité humaine, réchauffement climatique, pêche…). \nL’environnement marin est fortement endommagé. Nous savons comment restaurer les récifs coralliens. Nous avons déjà effectué des études à propos de la restauration ainsi que des tests sous-marins.\nNous allons travailler en coopération avec le gouvernement thaïlandais afin de mener à bien notre projet a Kata Beach. Avant que vous n’alliez plus loin dans la lecture de notre programme, nous tenons à vous assurer qu’aucun dommage d’aucune nature ne sera causé sur l’environnement : nous n’utilisons pas de machine et nous ne détruirons ni ne tuerons ni la faune, ni la flore.\nBrièvement, voici la méthode que nous allons employer :\n> En premier lieu, nous allons créer des structures en acier et les fixer sur le fond marin.\n> Nous allons ensuite transplanter des coraux sur ces structures. L’acier utilisé ainsi que les coraux ne feront qu’un.\n> La troisième étape consiste à s’assurer que les premiers maillons de la chaîne alimentaire se trouvent bien dans le récif artificiel.\n> Durant la partie suivante, nous contrôlons le récif mis en place chaque semaine dans le but de favoriser le développement du corail lui-même. Cette mise en œuvre va prendre environ 2 semaines. L’écosystème marin sera créé à part entière en 6 mois. La chaîne alimentaire est complète, le récif est en pleine santé et les abris sont assurés.\nNous sommes le centre de plongée SSS Phuket, de ce fait nous pouvons fournir toute la main d’œuvre nécessaire pour ce projet, et c’est pourquoi nous voulons prendre en charge l’installation et le contrôle des opérations effectuées. \nLe temps est compté mais nous savons que nous avons une chance de redonner à la Thaïlande par le biais de Phuket sa splendeur d’antan.",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/coral-reef-creation#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 3,
+        "backersCountOvertime": null,
+        "campaignDay": 3975,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 72,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 3,
+        "totalFundsGathered": 72
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 230835,
+      "followersCount": 16
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 230835,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project230835"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 68,
+        "creatorID": 1007888,
+        "creatorName": "Jean-Brice GARITO",
+        "creatorUrlName": "jean-bricegarito",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Coral Reef Creation",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 230835,
+        "publishedDate": "2015-10-09T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "2f38f322-58b1-4e12-8c84-40446f2a5a7f.png",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "coral-reef-creation",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/jean-bricegarito/coral-reef-creation"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/jean-bricegarito/coral-reef-creation"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 1007888,
+        "creatorUrlBase": null,
+        "name": "Jean-Brice GARITO",
+        "urlName": "jean-bricegarito",
+        "description": "> CCMC CCMX\nNetwork Administrator · 2002\n\n> Orange\nTechnicien · 2002 - 2004\n\n> PADI Diving Instructor · 2005 à 2010\n\n> SSS Phuket Dive and Surf Center Founder · january 2006 to now",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Jean-Brice GARITO",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2015-10-09T01:42:37Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/jean-bricegarito"
+      },
+      "creatorID": 1007888,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2015-11-08T07:59:59Z",
+        "campaignEndScheduledAt": "2015-11-08T07:59:59Z",
+        "campaignGoal": 72,
+        "campaignStart": "2015-10-09T02:23:04Z",
+        "creator": {
+          "creatorID": 1007888,
+          "creatorUrlBase": null,
+          "name": "Jean-Brice GARITO",
+          "urlName": "jean-bricegarito",
+          "description": "> CCMC CCMX\nNetwork Administrator · 2002\n\n> Orange\nTechnicien · 2002 - 2004\n\n> PADI Diving Instructor · 2005 à 2010\n\n> SSS Phuket Dive and Surf Center Founder · january 2006 to now",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2015-10-09T01:42:37Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/jean-bricegarito"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "Coral Reef Creation will be a solution to protect marine environment which is currently suffering.",
+        "subMerchantAccountHolderID": 228608,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 68,
+        "creatorID": 1007888,
+        "creatorName": "Jean-Brice GARITO",
+        "creatorUrlName": "jean-bricegarito",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Coral Reef Creation",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 230835,
+        "publishedDate": "2015-10-09T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "2f38f322-58b1-4e12-8c84-40446f2a5a7f.png",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "coral-reef-creation",
+        "version": 1
+      },
+      "projectID": 230835,
+      "projectPhaseChangedAt": "2025-10-28T08:32:50.56Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 230986,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 230986
+  }
+}

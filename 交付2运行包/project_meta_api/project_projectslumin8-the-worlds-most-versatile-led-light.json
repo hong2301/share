@@ -1,0 +1,473 @@
+{
+  "projectID": 108926,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 0,
+  "campaignStart": "2019-09-17T06:59:59Z",
+  "campaignEnd": "2019-09-18T06:59:59Z",
+  "mj": 145767,
+  "backers": 878,
+  "wcMj": 135069,
+  "rewards": 2,
+  "tags": 1,
+  "medias": 13,
+  "mediaUrls": "https://cdn.images.indiegogo.com/richtextimage/richtext/c208bd51-3d4e-4543-9009-9575b1dc5322.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/8441e9f8-b60b-41b6-8e60-e506d2cc98f4.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/52e29147-2bfa-4d04-bc75-cc0922a7a395.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/2ec46ebf-965e-4f33-b499-57cb262f76cf.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/fb0e7982-ea4f-4909-8c82-9e7475ecd7cd.jpg | https://cdn.videos.indiegogo.com/richtext/e8ee74c8-b3a8-4db1-a711-0b580de27065.mp4 | https://cdn.videos.indiegogo.com/richtext/9ca7d5c2-cb66-47f4-8e8d-ea9816d22751.mp4 | https://cdn.videos.indiegogo.com/richtext/5bba24c2-d368-4fed-9194-eef394de7ac4.mp4 | https://cdn.videos.indiegogo.com/richtext/dfad8b6f-d3a1-4cb8-a430-073679be55fa.mp4 | https://cdn.videos.indiegogo.com/richtext/06ea02ee-ecf4-42d1-ac25-4e255dff966c.mp4 | https://cdn.videos.indiegogo.com/richtext/fc24f966-c1d2-461b-9d2b-405cbb443cad.mp4 | https://cdn.videos.indiegogo.com/richtext/360d717b-f677-4a24-b602-d2a1928dbb7c.mp4 | https://cdn.videos.indiegogo.com/richtext/69d51813-d78c-407d-abbd-3f824d619445.mp4 | ",
+  "updates": "7",
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "Lumin8: Early Bird Single__$139.00(https://cdn.images.indiegogo.com/productimage/projects/108926/b1832e3c-5b9a-4bc9-9a37-71e232d37432.jpg) | Lumin8: Early Bird Double__$249.00(https://cdn.images.indiegogo.com/productimage/projects/108926/db10a3b0-b294-4427-a9ee-fe6583872339.jpg) | __$119.00(https://cdn.images.indiegogo.com/productimage/projects/108926/d421d8d5-fd6e-453b-bff9-233aef38252b.jpg) | ",
+  "tagTexts": "adventure | ",
+  "shortDescription": "Lumin8 is revolutionizing how and where beautifully lit media can be captured one light at a time.",
+  "projectStory": "Project story\nCreator\nTeam Lumin8\nmore infocontact\nCategory\nCamera Gear\nTags\nadventure\nBacking information",
+  "expected_count": 5,
+  "url": "https://www.indiegogo.com//projects/lumin8-the-worlds-most-versatile-led-light#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 826,
+        "backersCountOvertime": null,
+        "campaignDay": 2536,
+        "campaignOutcome": 0,
+        "currentStretchGoalID": null,
+        "fundedAt": "2019-09-18T06:59:59Z",
+        "fundsGathered": 135069,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 878,
+        "totalFundsGathered": 145767
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 108926,
+      "followersCount": 219
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 108926,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project108926"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 0,
+        "catalogCategory": 47,
+        "creatorID": 1577180,
+        "creatorName": "Team Lumin8",
+        "creatorUrlName": "teamlumin8",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Lumin8: The Worlds Most Versatile LED Light",
+        "originalType": 0,
+        "phase": 50,
+        "projectID": 108926,
+        "publishedDate": "2019-09-17T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "68d84da6-f503-447d-9cc9-29c0c8079504.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "lumin8-the-worlds-most-versatile-led-light",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 1577180,
+        "creatorUrlBase": null,
+        "name": "Team Lumin8",
+        "urlName": "teamlumin8",
+        "description": null,
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Team Lumin8",
+          "hasMissingData": false,
+          "legalEntityName": "blake milliken",
+          "legalEntityType": 1
+        },
+        "status": 1,
+        "createDate": "2019-06-12T14:52:01Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/teamlumin8"
+      },
+      "creatorID": 1577180,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 2,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2019-09-18T06:59:59Z",
+        "campaignEndScheduledAt": "2019-09-18T06:59:59Z",
+        "campaignGoal": null,
+        "campaignStart": "2019-09-17T06:59:59Z",
+        "creator": {
+          "creatorID": 1577180,
+          "creatorUrlBase": null,
+          "name": "Team Lumin8",
+          "urlName": "teamlumin8",
+          "description": null,
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2019-06-12T14:52:01Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/teamlumin8"
+        },
+        "crowdfundingCampaignUrl": "https://www.kickstarter.com/projects/lumin8/lumin8-the-worlds-most-versatile-led-light/description",
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "Lumin8 is revolutionizing how and where beautifully lit media can be captured one light at a time.",
+        "subMerchantAccountHolderID": 106771,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 0,
+        "catalogCategory": 47,
+        "creatorID": 1577180,
+        "creatorName": "Team Lumin8",
+        "creatorUrlName": "teamlumin8",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Lumin8: The Worlds Most Versatile LED Light",
+        "originalType": 0,
+        "phase": 50,
+        "projectID": 108926,
+        "publishedDate": "2019-09-17T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "68d84da6-f503-447d-9cc9-29c0c8079504.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "lumin8-the-worlds-most-versatile-led-light",
+        "version": 1
+      },
+      "projectID": 108926,
+      "projectPhaseChangedAt": "2020-06-30T00:00:00Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 109102,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 109102
+  }
+}

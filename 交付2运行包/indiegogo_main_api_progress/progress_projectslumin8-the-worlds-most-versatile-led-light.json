@@ -1,0 +1,83 @@
+{
+  "fresh_comment_id": 5226719,
+  "last_root_id": 5226717,
+  "root_finished": true,
+  "written_count": 5,
+  "authors": {
+    "16160": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/noimage.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "",
+      "profileUrl": null,
+      "urlName": "",
+      "userID": 16160,
+      "verifiedAccountCaption": null
+    },
+    "17695547": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/noimage.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "Simon_Nielsen_399c",
+      "profileUrl": "/profile/simon_nielsen_399c",
+      "urlName": "simon_nielsen_399c",
+      "userID": 17695547,
+      "verifiedAccountCaption": null
+    },
+    "21612331": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/noimage.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "Team_Lumin8",
+      "profileUrl": "/profile/team_lumin8_ec1a",
+      "urlName": "team_lumin8_ec1a",
+      "userID": 21612331,
+      "verifiedAccountCaption": null
+    },
+    "22609707": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/e0fc16dc-4633-4c64-92a7-40331d20c11a.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "Thibault_Bardane",
+      "profileUrl": "/profile/thibault_bardane_76a9",
+      "urlName": "thibault_bardane_76a9",
+      "userID": 22609707,
+      "verifiedAccountCaption": null
+    }
+  },
+  "comment_thread_id": 519599,
+  "cookies": {
+    "_gfcuid": "true",
+    "_gfuid": "55e9c3cd-b298-427a-a787-99b9728e5399",
+    "_gfdid": "8b846e2e-c779-4573-9c64-02eb363ed0ab",
+    "_gfsdid": "98b80aa3-5d44-492c-ac53-50b44c7837cd",
+    "_gfpcf": "15",
+    "_gfuls": "83%7C%7CChina",
+    "_gfap": "%7B%22platformName%22%3Anull%2C%22platformType%22%3A0%7D",
+    "_gfrltd": "true",
+    "_ga": "GA1.1.1685427571.1787727482",
+    "_clck": "52yohr%5E2%5Eg8x%5E0%5E2429",
+    "_fbp": "fb.1.1787727483182.235553110300814818",
+    "_hjSessionUser_6541796": "eyJpZCI6ImRmODY1MTZlLTJlNGYtNWU1OC1hZTFkLTAyMmNhM2EzNDA2MCIsImNyZWF0ZWQiOjE3ODc3Mjc0ODM1MDEsImV4aXN0aW5nIjp0cnVlfQ==",
+    "_gfls": "en",
+    "_ga_KC29V1M959": "GS2.1.s1787729061$o1$g1$t1787729077$j44$l0$h0",
+    "_ga_8CZGB64WMQ": "GS2.1.s1787729148$o1$g1$t1787729158$j50$l0$h0",
+    "_ga_TFW43WHRH9": "GS2.1.s1787729193$o1$g1$t1787729205$j48$l0$h0",
+    "_ga_WGC818041M": "GS2.1.s1787729379$o1$g1$t1787729391$j48$l0$h0",
+    "_ga_HVHKNS0DZV": "GS2.1.s1787729515$o1$g1$t1787729525$j50$l0$h0",
+    "_gfasid": "08df0357ac95b90c-917729fb-018d-4db9-94f2-8cc9c302e58b",
+    "__cf_bm": "SIK2MRfU0Ts9H0BokYwbdJecn7JOC26iZP5Z1jLju3w-1787740157.276304-1.0.1.1-yRH14eQ0v9WsACLFROWWIAFpZS0YBCo.QetJbLui7sJxm4aQ4vV5BUUNs3g4AJuq.rJxaSV_QALdPzBvNEouK1oLMqyQgmAYkZGILqJT4NkKBkDjuELudYqEoSlyvdIn",
+    "_cfuvid": "JI1IIG1reuH8HclUsw3F0x0lRLO4V0eUHXKUBsRfqfc-1787740157.276304-1.0.1.1-GwmrbGEc8B1KH36FesLSspOVoczmFptdm216Hv6OdpE",
+    "_gfbsid": "bc031bd7-a323-4b31-9d78-be0bda9d5d5f",
+    "_hjSession_6541796": "eyJpZCI6IjEzZmZlYjQ5LTQ0MWItNDE5Ni04ZDhlLTRmODAxN2YwM2QwNyIsImMiOjE3ODc3NDAxNjA1ODUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MX0=",
+    "_gfcse": "H4sIAAAAAAAACiXDC1TX9R3H4df7%2B%2Ft%2BfqiZiUIQlAmoaCqgpY6pUeIFy7yVmq1Suhg1W51ItKlJZq7bWaltZhcvM3WIHoZdKLuYriwaTrHSvxondjpWpmLCAEEuO9PnnOfwYuPPhcbpJvFGsziV5Fid7PhymvjjdJFbK7rWiXmDIX8wlIUBE6MC9qbDZ%2BnQr97xab0jNeLYFXHUHnE8f9TRslFse0uMuBZ%2Bey3sTRCPJ4qkMseHZY4N6bAuHX7JgJ8z4I6RRtsNxqqOAdd0CvhbUsiEXiEnVgYUrgoYOiigYlDA6COemu88aSOMg1lGzZMBzywJ%2BHGWsf4eY8vdRm6ukf2j59QJz6oGz%2FBmzxf9PF8N9FTGeA7Fe9rfFCVrxZ0bAmo3BMRN9HSf6um0Q%2BzcIWpSxfq%2BYu0Cx6gnHN%2B3wAutkDgO4sbBI4hEiYRyqCwHH4GdEZh0GCwCo8fCDWOhI%2BJdxMA2ONIGz%2FYQQ68W3zRAYSNEZUOQDS4C70eg5FPI2w0TTkLTSZjTCt3aYOhuOLMbGg9CydeQ3Q41%2F98Kr7XBlN3QaQ%2F0boHKFkiXOCaxLAsKs%2BCpbFicDfsRCyXmOhEfiIR22NsOP%2ByGN%2FbApiaY0gx1v8Las3BPf5jdH05uFa8Xi849HB%2F0cOzaJh7ZLt4ZIOYMFBkt4vsW8Wq0Y2w3x1dXOOYnOA4Ejie9Y9MBx8hKR7%2F94uh%2BUZAKj6fC9eXiTLnYNwzKh8EXvWBvL%2BhbJCJFYko9tNZDWCreKxWnN4s3t4iqR8RLj4qVL4tRK0RUiSgrEePmiqa5YtYAET1QrHpYjPmD2F4k7toqxreKc62isEGkN4raDPHWIDEyTZxJEwmLRMUicThOPBMvYqaLvdNF5EPx7Ediye%2FFoLkieYU4uELUxzk2xju%2BSnDMT3Ss%2B0lM%2BlksjoiBR8RTn4jBuwTtoqRdTMwX7fkip0401onCUyLjtEiJdlRGOzbUicn%2FFd0OiT2HxI15oi5P3Jon7EFRF%2BfYEO%2F46QGxJk9snC2m5QpmiB0zRGtXURwtLEmUJYk7MkTnQSJhuKgYLo5fJ1YPEV%2FeCJ%2FdCFkzxdmZYvUdYvzvxIuTxfVTxPoCMXW%2BaFkmtj0jCg6KPl%2BLK5aJ8mXipwlizS3iicdE%2F3zRswYqaiAzSZxMEvubYGEzpI0U1SNFwd2i7yzRtUbsqhHVT3j2LfZsyzXm3Gcsn%2B%2FJX%2BjZ9rRx73Lj%2BBZjzVbj4GijIMc4X%2BXZ9B%2FPmCHGL78xdvbxfHyN5%2FKbjJ23GO8MMWZmGguTjaQ%2Bxmu3e1bc6Xm%2Fq2dXjGdtdEhOTEjhK8bQ1cbGlZ7Jf%2FWcuSTk9S4hieeM8mYjb6Nx5WZj7OeO7z93tGQZ67ON%2B5YYiUuN2zqFcGlITrloKheq9hT%2F4Ime6elwl6ekwTOj2fPQ3UbvXGP5t8awiFFx3Fj4szGuynO22vPuY8bD84xplxkt3YzqycbS24xhiwIqFgU0dnFsuswxd7TRNccoqDN6NRg2wSiaZFwbcfwr4pj9tueSMk%2BYZhQPMmrWibXrxc21nrp6zy%2FHAhKrAx793Ej%2B0ohb6gmWe16MCUiODXi2IODq%2BQFhR2N7Z2NabxHVR2x9yzP9757tV3h2XOU5PE88VyA6XRLy3qUhWwY4Jg907NhuzPmH0dpiFLcbBy4z5nc3RtcbtY1GbhhwLgxYfdjIOWpkvWTUrzCSNxqHNhkPfOTQx46rGgLGNQfs6cKFazqGjOkcMingwtpGz2vnPWeqjHXVRvTYkA9yQib0NGpTjImXc2HsZE%2F0bZ70Fs%2Fhds%2BMRz2jH%2FekdA%2FZFxtSetoz86xn6viQ5ptDcvsHNPYPqOodsrxvyOYRIROzQqbWG5wzHnjd032dpykq4OUOAd91g6pu0EsXF2V5irI9c6O48HiHi8ceMxqqjLxXPTFveNZs8Ywp9qw85Blx1PN8gpHRwzibYqxONZYFnpejPOfnGW8vMFbtdQz4wjHqT560FzxNV3raenryTxjJp4yUeQE75wXEDPfEZnmGF4uTxeL6TOOHEcZDHxtXfWqc7GSs7GK8E8%2BFpcHFDydd%2FGDPkO4pIUe%2BhhXfQJl33G%2BO2EyIzoQ1RWL8VpFXL%2BIaROo%2BEdkn%2FthD9L1aDHhFfPeKqNgtFu8RhbeLwTNFsEC8u0DkzhLdZ4vKAbB%2FAFReJ54eIr79FZ46C7GdHf%2Fs7DjRDH85D3NmifjZoscB8e8D4ljgeM471j8mpuaL%2BzeL2C2iQ6l4v1TMyIZbs6E0E7ZnQm%2FvyejgCe711M%2FxcA209YMPU4zcVOPyG0I%2BGRVy0xJDS40ni0TaVvE%2F%2FBu%2FvQgJAAA%3D",
+    "_ga_J9QKJP1WGD": "GS2.3.s1787737921$o2$g1$t1787740451$j58$l0$h0",
+    "_clsk": "1ehuvdf%5E1787740452766%5E84%5E1%5Eg.clarity.ms%2Fcollect"
+  },
+  "referer": "https://www.indiegogo.com/en/projects/teamlumin8/lumin8-the-worlds-most-versatile-led-light/comments",
+  "ts": 1787740467.167014
+}

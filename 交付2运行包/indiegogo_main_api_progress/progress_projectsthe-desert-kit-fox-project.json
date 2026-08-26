@@ -1,0 +1,112 @@
+{
+  "fresh_comment_id": 6973102,
+  "last_root_id": 6973090,
+  "root_finished": true,
+  "written_count": 7,
+  "authors": {
+    "440781": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/16932d31-27d0-422f-bd52-cfc4557e6c4e.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "Kevin_Boyce",
+      "profileUrl": "/profile/kevin_boyce_f495",
+      "urlName": "kevin_boyce_f495",
+      "userID": 440781,
+      "verifiedAccountCaption": null
+    },
+    "3001520": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/6a0059c4-4188-431c-872b-f3925d4ec08d.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "Frank_Fleming",
+      "profileUrl": "/profile/frank_fleming_960a",
+      "urlName": "frank_fleming_960a",
+      "userID": 3001520,
+      "verifiedAccountCaption": null
+    },
+    "3259030": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/noimage.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "",
+      "profileUrl": null,
+      "urlName": "",
+      "userID": 3259030,
+      "verifiedAccountCaption": null
+    },
+    "3434978": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/noimage.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "",
+      "profileUrl": null,
+      "urlName": "",
+      "userID": 3434978,
+      "verifiedAccountCaption": null
+    },
+    "3722334": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/noimage.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "",
+      "profileUrl": null,
+      "urlName": "",
+      "userID": 3722334,
+      "verifiedAccountCaption": null
+    },
+    "3755327": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/noimage.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "",
+      "profileUrl": null,
+      "urlName": "",
+      "userID": 3755327,
+      "verifiedAccountCaption": null
+    },
+    "3757761": {
+      "adminUrl": null,
+      "avatarUrl": "https://cdn.images.indiegogo.com/userimagethumb/users/0b23d931-bde5-46c2-bfcd-19473ff3d686.jpg",
+      "badges": [],
+      "isPublic": true,
+      "nickname": "Julia_Sharwood",
+      "profileUrl": "/profile/julia_sharwood_0404",
+      "urlName": "julia_sharwood_0404",
+      "userID": 3757761,
+      "verifiedAccountCaption": null
+    }
+  },
+  "comment_thread_id": 1213643,
+  "cookies": {
+    "_gfcuid": "true",
+    "_gfuid": "0c23d202-eb9a-42d6-b7b5-f35175296885",
+    "_gfdid": "6d32814b-a7b8-4715-89bc-cebf6c363a8e",
+    "_gfsdid": "0b8aa9d1-ced9-4c83-8474-e8a821edcf11",
+    "_gfpcf": "15",
+    "_gfuls": "83%7C%7CChina",
+    "_gfap": "%7B%22platformName%22%3Anull%2C%22platformType%22%3A0%7D",
+    "_gfrltd": "true",
+    "_ga": "GA1.1.871254786.1787727438",
+    "_clck": "57rco%5E2%5Eg8x%5E0%5E2429",
+    "_fbp": "fb.1.1787727439983.339544295361816707",
+    "_gfls": "en",
+    "_hjSessionUser_6541796": "eyJpZCI6IjYxNWIwODI4LTY5NTMtNWY4NC1iMjFkLTNhMWNiNjU2ZjVhMCIsImNyZWF0ZWQiOjE3ODc3Mjc0NDAxOTIsImV4aXN0aW5nIjp0cnVlfQ==",
+    "_ga_4FS48Y3WB6": "GS2.1.s1787727729$o1$g1$t1787727747$j42$l0$h0",
+    "_gfasid": "08df0357a2334dc7-a1a187c5-9c99-45ca-a0e7-9056dcea4675",
+    "__cf_bm": "CRaBlYLAQaPFo.cWssPzOsVjaFNzhwj4QzABAnOLt3w-1787740122.2534425-1.0.1.1-HCMEI2UOT.T2ukftho1tQef19Zv6UZEPgIBeaoi0gEU24KUeo_vLiWoV.KHXrje8nSSbmyC_fQgFVJ2vuaUfpN9L7JDMNtQwPtiWt1C9bothlUeu2l.69hdK5FrSJbBG",
+    "_cfuvid": "QzDqUCzlwwySIe5gBGYcJCCKKgj3rlQ5FL4B.eQKnww-1787740122.2534425-1.0.1.1-Pa1ZbUOh_e5pZ59qJczBMD7sVN.Na9UNAAvmOn3WxhU",
+    "_gfbsid": "806f69d0-31a0-4c39-b122-d516991bba67",
+    "_hjSession_6541796": "eyJpZCI6Ijg0MDM3NGQzLTc3NDctNDNhNy04Y2I3LTY4N2MwZmIxYzQ3YSIsImMiOjE3ODc3NDAxMjUyNzMsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=",
+    "_gfcse": "H4sIAAAAAAAACh2V6VfXdRpA7%2FM8388PTIlGpNQG3FJBVBQKxRpBcEdcyBEwtHKhwmzQGtNiyQkVE1DT0MQlTcSOSp5jSVq55HJcajSJ1Jqh5KCn8lSWhiyac5wX99w%2F4L64Ow%2FBzMOQ216I6CB0PQzfHoaGRtjSBNfPwY5qqD8H66sh8jxcPg%2BLEmFhIvynGlZ%2FBW3iwT8esr6CrjVwvRE2NUHeOYiphntbYH8LjDWh2YRRV6HhKlzJUIqnKLf%2FoWzJVrZ0UMZ1VMa8rvz6urJ%2BpjIkU%2Fk6S3l1lnLmIyF%2Fn9DG52Ofv49nOzruDXWkjfGxfqyPwHnGtnnGjBeVVi8pt2uFXd8JRWHC4HAhv9lY%2FqfRstmjotzj8WjlVrTye7CP9e19LK11xF5y1Ox0LH3fEXJQqTqoLMC4T4yD5cpT25TJGxyB7ziubhbKtggTVnncLvW40lVY201YNspH9BgfTfuE9%2FYL5UOF1GFC3Ajlygjl1hNCZYbwfhcf6Q%2F58Oode644Sm4aH7UYPVsrNa2VOx09vE4eW8uNQduMXcs90ld5VGQI6VOEfuqj1vPxyHrHTxsdX2Qrc%2Bco%2B4ON8fcbZ%2FYK%2BVVC7xSlOkX5cYJQliJMThXapAm9M4TaDOGvjcqeRuW%2BTOGzTGHoFKFhinD2TyH%2FjvBkKx%2Bt2%2FhoH2JUhhjr%2BgtjooR3oo2Yh43QFjjVAu02CUc3CX2jjaPRxme1xu91xsQowRctdKl1fPm941xHx%2FxQxwvfCaHfC4%2BZj5%2Bcjz9SHKWTHHXJjkUTHJVhwlPhwr4JwqwUYaQTGpyQtNihSx250xwxMx2R4cKlcCEoXDh212scJ992lAZ6bAzyyGswtjcbw34zsv8wkts6bgQ7Sh539Et1tCry2Lvc42InR343x%2B50xwsZjqA04ViaUHLCEX%2FasXGqI%2B1px4hJQtMk4fIyR1mJY9YqR5dSR3QnH%2F%2Ft4mPuPEevBY6ycse47Y6OM5SDM5ToAo9OhR4nwnzMifCxd75j9quO0kiPt6M9SjMd455z1JV6lKzz2LTAoyjXIyLMcTbC8eE9xpjWxsXPPAqOe0zfKwRVCQF7hU%2F3ChvyhLH5whOPCAExwqmtjrwKR9bdxlOEvRjJYiTFOK7FOpKjhDtRwuc7PF5%2B36PTIHhwECzuIQzsKVTGKZPilbETHNcmOhru9%2FFOBx%2FdPvD4d5VHhwcdB0MdrVYI%2B1YIH%2FX2%2BKSfxw9pwrp0obmnx%2B0Ij7U5jnH5jpxAj4Igj9KdyoBdSkCUcDBKGOCvXPZXhl8VGq4Kh95Upq1SynYpj1Uq6ar4mTIuRZDHhVEzjbqZxsoEYWii0LfAOFZg9Ms0TmYaDauN4reM8euU39cpS0YaIaOM8ECP%2FkEeo3OEWznCpiqP0R97nDzkePWII%2FJXY%2FJ1Y9Y0IWS6ELjQ2LbQ%2BEuyUZFsVMcazw0yGnKN4jyjV5pxKM2onmdkvWz8%2Ba5QuVV4ZrvwwHvCQ%2FlCTb6w6i0hsVQo3ir8rVw4MlzJGqH47RGq9gjx%2B4Vr%2B4Uhi4wLi4xH84Sf84SRlUJjpTAtSmkdrcwMEYJChYgXlbMvKqOrlPoq5dHlxrnlRogYH4ixJUYZPUC50VXZ2E1pu0z5YJmSlGXUZRlZOUpArtLQ1igKMg54xt%2BdsQHjYTEW32uEBBqRnnHcM3JSjbZphorxthjTC4zmAmNKo3KjURmSYZzPMJYUG6ElxpmXjcz5Rusw5cMwxX%2BgsnugkpVsdydA9h3FD%2BPoWGPyOGP5SiHuTWF0udBcLvS5pRy9pSTVCC01wolTwoLTQkKZcaHMSFti%2FLrEKHzaCJ1mrEkw%2BiQa7X5Tdv6mbGuGlBZIWmbULTOG9lJ%2B6aX0H69cGK983F2Z2UN5KU95IF8585oyd6GycaDxcKyxpDP%2FJyrSOBFpNLcoK28pt4uFXSXC7N5Cpz7C6EKhuVD4obeyso%2BSE6V0j1aeSlD8E5WinkpMmOIdED48ICy8qHT4RnmoSDlepNzwlC1OyX7GaPWsMW%2Bw0SbOmDHYaB5svPuIERtjHHDC8z4hCB%2BH1cf0HEfHfEdMmPF5mPHpTo9nd3tczHKsnO0IiFCqIpSb24WK94Sa7z3y6z26N8GXTTB7ODw3HC6PgEsjYEgj%2FNwIU0W4R4VB6cbZdOOVqUrnJ5XCOCM03vgiS8ifJbzRoHS5qdTPVwoXKJn1wv2XhZFHhJYjQkKwci1Y%2BblCKdmuXL8ovPuNEHz3TXOUjB3K7R1K5ETh0kSh62mh%2BrQQuV85uV9Z2x3WdIdDBcr0Rcq87krnHkpsX6Wur9IuVTieKvxQLKwtEQZ0Fn7sLMyNNfwHGQ9kG5XZxpR1yp11yi%2FHoOI4BK8Wjq0WbiYZxWMMCTDWBhgBfsZWPyM4UTiRKLSLUz6JU6JTlW9SlanPKzZbWZGjROcqya2UllaK306haqcQs0K4skL4ur9QGCXcilO2xivfzlFem6u8kABZCRA7zDgzzDiVpMwZo%2BxOVVLTlB2lSvIapX2scCpWeGmB0v4VpdtE5dRExa9W2VSrJGxQ6jcoTSuNFW8aCbnK5VzlWpixONzY3NsY0Md4rIPyYwclrYciPZU9i4zRi43VR4QRR4Xp2UZztvHPn5SAq8rSpUrEG8q%2Fqj36nPfYXO1I%2BdqR95VH%2BAWP%2FwELTOtjKAoAAA%3D%3D",
+    "_ga_J9QKJP1WGD": "GS2.3.s1787737904$o2$g1$t1787740333$j58$l0$h0",
+    "_clsk": "147etgw%5E1787740334013%5E76%5E1%5Eh.clarity.ms%2Fcollect"
+  },
+  "referer": "https://www.indiegogo.com/en/projects/dipikakadaba/the-desert-kit-fox-project/comments",
+  "ts": 1787740348.540566
+}

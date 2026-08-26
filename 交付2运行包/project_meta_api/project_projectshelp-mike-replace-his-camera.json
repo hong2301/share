@@ -1,0 +1,473 @@
+{
+  "projectID": 336827,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2013-09-20T20:54:00Z",
+  "campaignEnd": "2013-09-29T06:59:59Z",
+  "mj": 135,
+  "backers": 7,
+  "wcMj": 135,
+  "rewards": 2,
+  "tags": 1,
+  "medias": 0,
+  "mediaUrls": "",
+  "updates": 0,
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "8 1/2 x 11 print__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | 5 + 5 prints__$200.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "My great pocket camera is no longer with us. Help me replace it so I can continue to share these images with all of you.",
+  "projectStory": "Project story\nCreator\nMike Scott\nmore infocontact\nCategory\nCamera Gear\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nEveryone knows I love taking pictures at all the shows I go to. I go to as many shows as I can for the music, but there are also great friends that come along with that music. Have been going to big venues for national acts since I was a sophomore in high school, but after my divorce a few years ago, I got real big into the local music.So many amazing musicians just around the corner and even more wonderful people with them. I started taking the good camera I bought to capture the precious moments of my kids growing up to the shows with me. Turned out to be good at capturing the bands I love and the new friends I make all the time and saving these moments forever. I also share these moments that I captured with everyone so we can all enjoy and remember what a great time that show was. Well...... on Friday the 13, the image sensor went out on the camera and I managed to tear up the lens gears trying to get it to work. Only got 2 pictures that night before the show even started. Went to 5 shows that weekend and everyone was asking where my camera was. I was lost without it and felt like I was not doing my part for the metal community that I am proud to be a part of. I had that one for 8 years, so there is no warranty left and repair costs are close to the cost of a newer model camera. I am going to stick with the same series of camera as it is the best pocket camera I can get into any show with and not need a press pass to use. There were several musicians that mentioned having a benefit show or starting a fundraiser so I can replace my camera and continue to capture amazing images of my friends and the wonderful bands some of them are in, as well as the national acts that come through. Of course I will continue to share all of these with every one of you. I try never to ask for money from people and you all know I would do absolutely anything I can for any of you if I am able. Since the divorce and foreclosures, I just have no extra money at all and I am just barely getting by and proving for my kids. There are 2 different cameras in this series that I am looking at. The 1st will come out in a couple of weeks and has a newer processor that will be better at the low light shots and it has a newer image sensor than my last one, so that problem will not happen again. The 2nd one is last years model, but the image sensor is 3 times the size of the 1st one. The processor in that one is also last years, so it is not as fast as the new one. But with it being 3 times bigger, it has it's own advantages. With that size comes a cost though. The 1st one is about $600 and the 2nd one is about $800. I have set my goal at $900 to cover fees on here and shipping and tax or anything else that comes up.",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/help-mike-replace-his-camera#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 7,
+        "backersCountOvertime": null,
+        "campaignDay": 4723,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 135,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 7,
+        "totalFundsGathered": 135
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 336827,
+      "followersCount": 11
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 336827,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project336827"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 395998,
+        "creatorName": "Mike Scott",
+        "creatorUrlName": "mikescott-4813265",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Help Mike replace his camera.",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 336827,
+        "publishedDate": "2013-09-20T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "e1756c36-c088-452f-ab20-847d580a8a5a.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "help-mike-replace-his-camera",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/mikescott-4813265/help-mike-replace-his-camera"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/mikescott-4813265/help-mike-replace-his-camera"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 395998,
+        "creatorUrlBase": null,
+        "name": "Mike Scott",
+        "urlName": "mikescott-4813265",
+        "description": "",
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Mike Scott",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2013-09-20T16:47:01Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/mikescott-4813265"
+      },
+      "creatorID": 395998,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2013-09-29T06:59:59Z",
+        "campaignEndScheduledAt": "2013-09-29T06:59:59Z",
+        "campaignGoal": 135,
+        "campaignStart": "2013-09-20T20:54:00Z",
+        "creator": {
+          "creatorID": 395998,
+          "creatorUrlBase": null,
+          "name": "Mike Scott",
+          "urlName": "mikescott-4813265",
+          "description": "",
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2013-09-20T16:47:01Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/mikescott-4813265"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "My great pocket camera is no longer with us. Help me replace it so I can continue to share these images with all of you.",
+        "subMerchantAccountHolderID": 334035,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 395998,
+        "creatorName": "Mike Scott",
+        "creatorUrlName": "mikescott-4813265",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "Help Mike replace his camera.",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 336827,
+        "publishedDate": "2013-09-20T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "e1756c36-c088-452f-ab20-847d580a8a5a.jpg",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "help-mike-replace-his-camera",
+        "version": 1
+      },
+      "projectID": 336827,
+      "projectPhaseChangedAt": "2025-11-26T13:13:05.743Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 337761,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 337761
+  }
+}

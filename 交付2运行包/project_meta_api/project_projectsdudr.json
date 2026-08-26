@@ -1,0 +1,473 @@
+{
+  "projectID": 409622,
+  "phase": 50,
+  "status": 1,
+  "campaignOutcome": 1,
+  "campaignStart": "2014-12-13T20:20:00Z",
+  "campaignEnd": "2015-02-12T07:59:59Z",
+  "mj": 295,
+  "backers": 3,
+  "wcMj": 295,
+  "rewards": 5,
+  "tags": 1,
+  "medias": 12,
+  "mediaUrls": "https://cdn.images.indiegogo.com/richtextimage/richtext/05ee2933-8095-4c28-94cc-461c032d7748.png | https://cdn.images.indiegogo.com/richtextimage/richtext/38483430-b958-4cc6-b6a0-5e88a1d2fa08.png | https://cdn.images.indiegogo.com/richtextimage/richtext/096b2750-8274-4a62-83a7-4d39261cd069.png | https://cdn.images.indiegogo.com/richtextimage/richtext/94edcf1e-023b-4582-a866-46cc5a6f0751.png | https://cdn.images.indiegogo.com/richtextimage/richtext/6f4baf82-c569-4272-9f96-8b0337fa5498.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/021fdf16-1a20-403c-ab59-f7bbca439af6.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/a38d14a9-5527-4126-9331-ee99b283de61.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/e741385a-98b7-4890-91ea-448ae55945a0.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/91173c3f-44ca-435b-ad81-fa2a540ac29f.png | https://cdn.images.indiegogo.com/richtextimage/richtext/0ab4bd89-9bf8-4495-af09-6d6164b07fcf.jpg | https://cdn.images.indiegogo.com/richtextimage/richtext/4a1f04ed-fc4a-480f-b4cc-4037858e4161.png | https://cdn.images.indiegogo.com/richtextimage/richtext/1a434dc4-e766-4aad-ba24-7dd925d63802.png | ",
+  "updates": "5",
+  "FAQ": 0,
+  "currency": "USD",
+  "statusText": "Closed\nThis project no longer accepts pledges or changes.\nFollow to get updates",
+  "rewardData": "IN DUDR WE TRUST__$5.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | LIMITED DUDR-T-SHIRT__$25.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | LIMITED DUDR-SWEATER__$50.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | LIMITED MAßKRUG__$100.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | DUDR OKTOBERFEST__$500.00(https://cdn.images.indiegogo.com/productimage/noimage.jpg) | ",
+  "tagTexts": "other | ",
+  "shortDescription": "THE DISPOSABLE CAMERA APP FOR YOUR EVENT",
+  "projectStory": "Project story\nCreator\nBernd Schmekel\nmore infocontact\nCategory\nCamera Gear\nTags\nother\nBacking information\nCrowdfunding risks\nlearn more\nFIND DUDR ON www.DUDR.info\n\nON TECHCRUNCH: TECHCRUNCH/DUDR\n\nHOW DUDR WORKS\nYOU AND YOUR FRIENDS NEARBY JUST PRESSES THE DUDR-ICON SIMULTANEOUSLY - THE APP AUTOMATICALLY CREATES ONE PRIVAT PHOTO ALBUM. EVERYONE CAN THEN SHOOT 24 PHOTOS IN 24 HOURS. AFTER 24 HOURS YOU AND YOUR FRIENDS GETS A PUSH MESSAGE AND CAN SEE ALL THE PHOTOS FROM THE LAST 24 HOURS.\n                                             \n\n\n THE STORY BEHIND DUDR\n\n\nStefan came back from his vacation - the Fifa World Cup in Brazil. He stayed there with his 3 DUDES in an apartment near Ipanema-Beach. They bought 10 quicksnaps (disposable cameras) - one for every day with 24 shots. After their vacation nobody could remember what actually happened.\n\nA week after, I was invited to their photo-show evening! All the DUDES were so excited, there were pictures... OMG.....!\n\nI saw the potential for an app that provided a way to \"time-delay\" the viewing of photos from an event or place, and together with my coding team developed the DUDR app - 24 SHOTS in 24 HOURS!\n\n\n            THE DUDR APP ICON \n\n                \n\n\nNEXT STEP\n- DUDR Android App release april 2015\n\n\nWe thank you for your help - lets spread the word - ITS DUDR TIME!\n\nKind regards\n\nBernd (CEO), Susanne (Design), Raul (App developer)\n\n\nABOUT THE FOUNDER\n\nBernd Schmekel, Founder and CEO of the Arthur-Film GmbH\nHe worked for more than twelve years for various radio and TV stations, successfully developing new TV formats, and producing, among other works, unique images of the German Navy. He founded Arthur-Film GmbH in 2007 to produce freelance productions and together with his team accompanies people with extraordinary stories. Corporate clients include Campari, Saturn and OMV. He is also Founder and CEO of The World of Pictures Company, the first photo agency for smartphone photos, allowing everyone to earn money with their creativity. His most recent project, founded 2011 together with Susanne Odendahl, is Picjerry, which has emerged as an attractive competitor to getty images and fotolia.\n\nwww.picjerry.info",
+  "expected_count": 0,
+  "url": "https://www.indiegogo.com//projects/dudr#/",
+  "cjStatus": "done",
+  "error": "",
+  "raw": {
+    "userAdditionalInfo": {
+      "backedProjectsIDs": null,
+      "followedProjectsIDs": null,
+      "followedUsersIDs": null,
+      "guestOrderToken": null,
+      "userPreferredLocation": {
+        "locationName": "China",
+        "systemLocationID": 83,
+        "systemSubLocationID": null
+      }
+    },
+    "projectState": {
+      "endgameState": null,
+      "statistics": {
+        "backersCount": 3,
+        "backersCountOvertime": null,
+        "campaignDay": 4274,
+        "campaignOutcome": 1,
+        "currentStretchGoalID": null,
+        "fundedAt": null,
+        "fundsGathered": 295,
+        "fundsGatheredOvertime": null,
+        "totalBackersCount": 3,
+        "totalFundsGathered": 295
+      },
+      "stretchGoals": []
+    },
+    "projectFollowerFacts": {
+      "projectID": 409622,
+      "followersCount": 16
+    },
+    "projectUserState": {
+      "projectUserContext": {
+        "backerNumber": null,
+        "creditBalance": 0,
+        "hasLockedActiveOrder": false,
+        "hasOrderWithPaymentAction": false,
+        "projectID": 409622,
+        "relationType": 0,
+        "userID": 0
+      }
+    },
+    "projectTracking": {
+      "googleAds": {
+        "addToCartEventID": null,
+        "enabled": false,
+        "followEventID": null,
+        "googleAdsID": null,
+        "pageViewEventID": null,
+        "purchaseEventID": null
+      }
+    },
+    "analyticsConfig": {
+      "consent": {
+        "provider": "transcend"
+      },
+      "internalAnalyticsEnabled": true,
+      "facebookPixel": {
+        "pixelID": "730459336695618",
+        "pixelIDV2": "1457709454497339"
+      },
+      "googleAnalytics": {
+        "ga4MeasurementID": "G-J9QKJP1WGD",
+        "trackingID": "UA-80922302-6",
+        "projectTrackingKey": "project409622"
+      },
+      "googleAds": null,
+      "hotjar": {
+        "id": "6541796"
+      },
+      "clarity": {
+        "id": "tn2f062y38"
+      },
+      "helpScout": null,
+      "externalAnalytics": {
+        "facebookPixelId": null,
+        "googleAnalyticsTrackingId": null,
+        "googleAnalyticsMeasurementId": null,
+        "isMetaConversionApiEnabled": false
+      },
+      "user": null,
+      "project": {
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 742377,
+        "creatorName": "Bernd Schmekel",
+        "creatorUrlName": "berndschmekel",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "DUDR",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 409622,
+        "publishedDate": "2014-12-13T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "b234fbe5-5169-443f-9c9c-924c3a2d2b2c.png",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "dudr",
+        "version": 1
+      }
+    },
+    "availableLanguages": [
+      {
+        "isCurrent": true,
+        "languageID": 1,
+        "languageIsoCode": "en",
+        "languageName": "English",
+        "languageUrl": "/en/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 2,
+        "languageIsoCode": "it",
+        "languageName": "Italiano",
+        "languageUrl": "/it/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 3,
+        "languageIsoCode": "fr",
+        "languageName": "Français",
+        "languageUrl": "/fr/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 4,
+        "languageIsoCode": "de",
+        "languageName": "Deutsch",
+        "languageUrl": "/de/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 5,
+        "languageIsoCode": "pl",
+        "languageName": "Polski",
+        "languageUrl": "/pl/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 6,
+        "languageIsoCode": "es",
+        "languageName": "Español",
+        "languageUrl": "/es/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 12,
+        "languageIsoCode": "cs",
+        "languageName": "Čeština",
+        "languageUrl": "/cs/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 15,
+        "languageIsoCode": "pt",
+        "languageName": "Português",
+        "languageUrl": "/pt/projects/berndschmekel/dudr"
+      },
+      {
+        "isCurrent": false,
+        "languageID": 9,
+        "languageIsoCode": "zh",
+        "languageName": "中文",
+        "languageUrl": "/zh/projects/berndschmekel/dudr"
+      }
+    ],
+    "preventCartLoading": true,
+    "projectContext": {
+      "canEnableTestMode": false,
+      "creator": {
+        "creatorID": 742377,
+        "creatorUrlBase": null,
+        "name": "Bernd Schmekel",
+        "urlName": "berndschmekel",
+        "description": null,
+        "digestFrequency": 0,
+        "displayedLocation": null,
+        "creatorLegalEntityInfo": {
+          "creatorName": "Bernd Schmekel",
+          "hasMissingData": true,
+          "legalEntityName": "[Legal Entity Type missing]",
+          "legalEntityType": null
+        },
+        "status": 1,
+        "createDate": "2014-12-08T10:16:56Z",
+        "modifyDate": null,
+        "termsOfServiceAccepted": true,
+        "digitalContentTermsAccepted": false,
+        "digitalContentTermsAcceptedAt": null,
+        "thumbImageUrl": null,
+        "creatorPageUrl": "/creators/berndschmekel"
+      },
+      "creatorID": 742377,
+      "guestUserPledgeEnabled": true,
+      "hasProject": true,
+      "installmentsSettings": {
+        "enableInstallments": false,
+        "installmentsMinPaymentAmount": null,
+        "numberOfInstallments": null
+      },
+      "isDccEnabled": false,
+      "isStablePledgeEnabled": false,
+      "isInTestMode": false,
+      "paymentProvider": 1,
+      "project": {
+        "coCreators": [],
+        "campaignEnd": "2015-02-12T07:59:59Z",
+        "campaignEndScheduledAt": "2015-02-12T07:59:59Z",
+        "campaignGoal": 295,
+        "campaignStart": "2014-12-13T20:20:00Z",
+        "creator": {
+          "creatorID": 742377,
+          "creatorUrlBase": null,
+          "name": "Bernd Schmekel",
+          "urlName": "berndschmekel",
+          "description": null,
+          "digestFrequency": 0,
+          "displayedLocation": null,
+          "creatorLegalEntityInfo": null,
+          "status": 1,
+          "createDate": "2014-12-08T10:16:56Z",
+          "modifyDate": null,
+          "termsOfServiceAccepted": true,
+          "digitalContentTermsAccepted": false,
+          "digitalContentTermsAcceptedAt": null,
+          "thumbImageUrl": null,
+          "creatorPageUrl": "/creators/berndschmekel"
+        },
+        "crowdfundingCampaignUrl": null,
+        "description": null,
+        "enableAdditionalCommunicationConsent": false,
+        "enableCampaignEndgame": true,
+        "fundsGatheredPresentation": 0,
+        "isOpenForOrders": false,
+        "key": null,
+        "newContactAddress": null,
+        "shortDescription": "THE DISPOSABLE CAMERA APP FOR YOUR EVENT",
+        "subMerchantAccountHolderID": 406565,
+        "updateInfoLink": null,
+        "visibility": 0,
+        "campaignOutcome": 1,
+        "catalogCategory": 47,
+        "creatorID": 742377,
+        "creatorName": "Bernd Schmekel",
+        "creatorUrlName": "berndschmekel",
+        "enableInvoicing": false,
+        "hasCoCreators": false,
+        "isPublished": true,
+        "name": "DUDR",
+        "originalType": 1,
+        "phase": 50,
+        "projectID": 409622,
+        "publishedDate": "2014-12-13T00:00:00Z",
+        "status": 1,
+        "tileImageFileName": "b234fbe5-5169-443f-9c9c-924c3a2d2b2c.png",
+        "tileImageUrl": null,
+        "type": 0,
+        "urlName": "dudr",
+        "version": 1
+      },
+      "projectID": 409622,
+      "projectPhaseChangedAt": "2025-11-27T19:10:47.887Z",
+      "settings": {
+        "allowEditOrders": true,
+        "earlyShippingCollectionEnabled": false
+      },
+      "shippingCollectionMode": 2,
+      "snapshotPhase": null,
+      "testingContext": {
+        "originalPhase": 50,
+        "testingPhase": 0,
+        "showUnpublishedContent": false,
+        "userGroupIDs": null
+      },
+      "testingPhase": 0
+    },
+    "userContext": {
+      "avatarUrl": null,
+      "avatarThumbUrl": null,
+      "isImpersonated": false,
+      "isAuthenticated": false,
+      "user": {
+        "globalPermissions": [],
+        "creatorPermissions": {},
+        "projectPermissions": {},
+        "systemPermissions": [],
+        "userID": 0,
+        "email": null,
+        "fullName": null,
+        "hasPublicProfile": false,
+        "hasPushNotificationsEnabled": false,
+        "hasRetailerAccess": false,
+        "nickname": null,
+        "roleFlags": 0,
+        "quirkFlags": 0,
+        "privacySettingFlags": null,
+        "privacySettingsUpdatedAt": null,
+        "verifiedAccountCaption": null,
+        "restrictions": null
+      }
+    },
+    "currentCheckoutCurrencyId": 1,
+    "projectAdditionalSettings": {
+      "allowNewOrders": true,
+      "hasAccessToLimitedPledgeManager": false,
+      "pledgeManagerAvailability": 0,
+      "pledgeManagerSoftCloseDeadline": null,
+      "enableShippingOnlyMode": false
+    },
+    "featureFlags": {
+      "androidAppEnabled": false,
+      "avatarGeneratorEnabled": false,
+      "darkModeEnabled": false,
+      "featuredProjectCategoriesEnabled": true,
+      "gameSpecificProjectPropertiesEnabled": false,
+      "iosAppEnabled": false,
+      "pushNotificationsEnabled": false,
+      "heroBannersEnabled": true,
+      "launchCampaignBoxEnabled": true,
+      "rankingsEnabled": false
+    },
+    "displayCurrencies": [
+      {
+        "currencyID": 11,
+        "name": "Australian Dollar",
+        "relativeFactor": 0.71532847,
+        "relativeFactorWithCommission": 0.69584482,
+        "relativeToCurrencyID": 1,
+        "shortName": "AUD",
+        "symbol": "A$"
+      },
+      {
+        "currencyID": 6,
+        "name": "Canadian Dollar",
+        "relativeFactor": 0.72152447,
+        "relativeFactorWithCommission": 0.70187205,
+        "relativeToCurrencyID": 1,
+        "shortName": "CAD",
+        "symbol": "C$"
+      },
+      {
+        "currencyID": 9,
+        "name": "Swiss Franc",
+        "relativeFactor": 1.24580708,
+        "relativeFactorWithCommission": 1.21187459,
+        "relativeToCurrencyID": 1,
+        "shortName": "CHF",
+        "symbol": "Fr."
+      },
+      {
+        "currencyID": 14,
+        "name": "Danish Krone",
+        "relativeFactor": 0.15600712,
+        "relativeFactorWithCommission": 0.1517579,
+        "relativeToCurrencyID": 1,
+        "shortName": "DKK",
+        "symbol": "\tkr."
+      },
+      {
+        "currencyID": 2,
+        "name": "Euro",
+        "relativeFactor": 1.1662,
+        "relativeFactorWithCommission": 1.1344358,
+        "relativeToCurrencyID": 1,
+        "shortName": "EUR",
+        "symbol": "€"
+      },
+      {
+        "currencyID": 3,
+        "name": "Pound Sterling",
+        "relativeFactor": 1.36317943,
+        "relativeFactorWithCommission": 1.32605003,
+        "relativeToCurrencyID": 1,
+        "shortName": "GBP",
+        "symbol": "£"
+      },
+      {
+        "currencyID": 16,
+        "name": "Hong Kong Dollar",
+        "relativeFactor": 0.12758322,
+        "relativeFactorWithCommission": 0.12410819,
+        "relativeToCurrencyID": 1,
+        "shortName": "HKD",
+        "symbol": "HK$"
+      },
+      {
+        "currencyID": 10,
+        "name": "Norwegian Krone",
+        "relativeFactor": 0.10706941,
+        "relativeFactorWithCommission": 0.10415312,
+        "relativeToCurrencyID": 1,
+        "shortName": "NOK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 17,
+        "name": "New Zealand Dollar",
+        "relativeFactor": 0.5966133,
+        "relativeFactorWithCommission": 0.58036313,
+        "relativeToCurrencyID": 1,
+        "shortName": "NZD",
+        "symbol": "NZ$"
+      },
+      {
+        "currencyID": 4,
+        "name": "Polish Zloty",
+        "relativeFactor": 0.27086285,
+        "relativeFactorWithCommission": 0.26348526,
+        "relativeToCurrencyID": 1,
+        "shortName": "PLN",
+        "symbol": "zł"
+      },
+      {
+        "currencyID": 13,
+        "name": "Swedish Krona",
+        "relativeFactor": 0.10537825,
+        "relativeFactorWithCommission": 0.10250803,
+        "relativeToCurrencyID": 1,
+        "shortName": "SEK",
+        "symbol": "kr"
+      },
+      {
+        "currencyID": 15,
+        "name": "Singapore Dollar",
+        "relativeFactor": 0.7872283,
+        "relativeFactorWithCommission": 0.76578628,
+        "relativeToCurrencyID": 1,
+        "shortName": "SGD",
+        "symbol": "S$"
+      }
+    ],
+    "checkoutCurrencies": [
+      {
+        "currencyID": 1,
+        "name": "US Dollar",
+        "projectCurrencyID": 410302,
+        "shortName": "USD",
+        "symbol": "$"
+      }
+    ],
+    "currencySelectorVisible": true,
+    "currentProjectCurrencyID": 410302
+  }
+}
