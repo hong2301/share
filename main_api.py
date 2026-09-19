@@ -41,6 +41,9 @@ PROJECT_META_DIR = Path("project_meta_api")
 PROGRESS_DIR = Path("indiegogo_main_api_progress")
 BROWSER_PORT = 4835
 
+# 评论 API 请求代理（用户本机代理端口，评论采集依赖）
+PROXY = "http://127.0.0.1:7897"
+
 # True=仅采集元数据（不生成评论 csv，单链接约 5-8s）；False=正常采集评论；None=启动时询问
 META_ONLY = False
 
@@ -698,8 +701,10 @@ def get_auth_from_browser(dp, link, save_project_id=None, meta_only=False):
 
 # ==================== API 请求 ====================
 def post_with_retry(url, headers, cookies, payload, max_retries=4, timeout=30):
-    """POST 请求；429 限流时等待递增时长后重试，最多 max_retries 次。"""
+    """POST 请求；429 限流时等待递增时长后重试，最多 max_retries 次。
+    评论 API 需走代理 PROXY。"""
     resp = None
+    proxy_cfg = {"http": PROXY, "https": PROXY}
     for attempt in range(1, max_retries + 1):
         resp = requests.post(url, headers=headers, cookies=cookies, json=payload, timeout=timeout, impersonate="chrome")
         if resp.status_code != 429:
