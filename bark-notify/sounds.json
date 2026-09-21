@@ -1,0 +1,204 @@
+{
+  "name": "Bark 铃声库",
+  "description": "Bark 支持的所有内置铃声",
+  "sounds": {
+    "alarm": {
+      "name": "Alarm",
+      "description": "警报声，适合紧急告警",
+      "category": "alert",
+      "recommended_for": ["服务器宕机", "紧急任务", "安全警告"]
+    },
+    "bell": {
+      "name": "Bell",
+      "description": "铃声，清脆悦耳",
+      "category": "notification",
+      "recommended_for": ["日常通知", "任务完成"]
+    },
+    "bellows": {
+      "name": "Bellows",
+      "description": "风箱声，低沉有力",
+      "category": "notification",
+      "recommended_for": ["系统消息"]
+    },
+    "calypso": {
+      "name": "Calypso",
+      "description": "默认铃声，欢快活泼",
+      "category": "default",
+      "recommended_for": ["通用", "默认选择"]
+    },
+    "chime": {
+      "name": "Chime",
+      "description": "风铃声，轻柔舒缓",
+      "category": "notification",
+      "recommended_for": ["轻量通知", "提醒"]
+    },
+    "complete": {
+      "name": "Complete",
+      "description": "完成提示音",
+      "category": "success",
+      "recommended_for": ["任务完成", "备份成功", "部署完成"]
+    },
+    "descent": {
+      "name": "Descent",
+      "description": "下降音效",
+      "category": "notification",
+      "recommended_for": ["状态变更"]
+    },
+    "glass": {
+      "name": "Glass",
+      "description": "玻璃声，清脆",
+      "category": "notification",
+      "recommended_for": ["消息通知"]
+    },
+    "hero": {
+      "name": "Hero",
+      "description": "英雄音效，振奋人心",
+      "category": "success",
+      "recommended_for": ["重大成就", "里程碑"]
+    },
+    "multiway": {
+      "name": "Multiway",
+      "description": "多路音效",
+      "category": "notification",
+      "recommended_for": ["多任务通知"]
+    },
+    "newmail": {
+      "name": "New Mail",
+      "description": "新邮件提示音",
+      "category": "notification",
+      "recommended_for": ["邮件通知", "消息提醒"]
+    },
+    "noir": {
+      "name": "Noir",
+      "description": "黑色电影风格",
+      "category": "notification",
+      "recommended_for": ["特殊场景"]
+    },
+    "nyances": {
+      "name": "Nyances",
+      "description": "细腻音效",
+      "category": "notification",
+      "recommended_for": ["轻量通知"]
+    },
+    "payment": {
+      "name": "Payment",
+      "description": "支付提示音",
+      "category": "success",
+      "recommended_for": ["收款通知", "交易完成"]
+    },
+    "phone": {
+      "name": "Phone",
+      "description": "电话铃声",
+      "category": "alert",
+      "recommended_for": ["来电提醒", "紧急呼叫"]
+    },
+    "poseidon": {
+      "name": "Poseidon",
+      "description": "海神音效，庄严",
+      "category": "notification",
+      "recommended_for": ["重要通知"]
+    },
+    "purr": {
+      "name": "Purr",
+      "description": "呼噜声，轻柔",
+      "category": "notification",
+      "recommended_for": ["低优先级通知"]
+    },
+    "pulse": {
+      "name": "Pulse",
+      "description": "脉冲声，有节奏",
+      "category": "notification",
+      "recommended_for": ["监控告警", "心跳检测"]
+    },
+    "revolve": {
+      "name": "Revolve",
+      "description": "旋转音效",
+      "category": "notification",
+      "recommended_for": ["循环任务"]
+    },
+    "riser": {
+      "name": "Riser",
+      "description": "上升音效，渐强",
+      "category": "alert",
+      "recommended_for": ["升级告警", "阈值突破"]
+    },
+    "scalar": {
+      "name": "Scalar",
+      "description": "标量音效",
+      "category": "notification",
+      "recommended_for": ["数据通知"]
+    },
+    "sentis": {
+      "name": "Sentis",
+      "description": "感知音效",
+      "category": "notification",
+      "recommended_for": ["感应通知"]
+    },
+    "sharp": {
+      "name": "Sharp",
+      "description": "尖锐音效，醒目",
+      "category": "alert",
+      "recommended_for": ["警告", "错误"]
+    },
+    "sonar": {
+      "name": "Sonar",
+      "description": "声纳音效，探测感",
+      "category": "notification",
+      "recommended_for": ["扫描完成", "检测通知"]
+    },
+    "strum": {
+      "name": "Strum",
+      "description": "拨弦声",
+      "category": "notification",
+      "recommended_for": ["轻量通知"]
+    },
+    "submarine": {
+      "name": "Submarine",
+      "description": "潜艇音效",
+      "category": "notification",
+      "recommended_for": ["深海探索主题"]
+    },
+    "tolerated": {
+      "name": "Tolerated",
+      "description": "容忍音效",
+      "category": "notification",
+      "recommended_for": ["一般通知"]
+    },
+    "trek": {
+      "name": "Trek",
+      "description": "星际迷航音效",
+      "category": "notification",
+      "recommended_for": ["科幻主题"]
+    },
+    "tritone": {
+      "name": "Tritone",
+      "description": "三全音，紧张感",
+      "category": "alert",
+      "recommended_for": ["警告通知"]
+    },
+    "ufo": {
+      "name": "UFO",
+      "description": "UFO 音效",
+      "category": "notification",
+      "recommended_for": ["神秘通知"]
+    },
+    "victory": {
+      "name": "Victory",
+      "description": "胜利音效",
+      "category": "success",
+      "recommended_for": ["任务成功", "游戏胜利"]
+    },
+    "woosh": {
+      "name": "Woosh",
+      "description": "嗖嗖声",
+      "category": "notification",
+      "recommended_for": ["快速通知"]
+    }
+  },
+  "categories": {
+    "default": "默认铃声",
+    "alert": "警报类，适合紧急情况",
+    "notification": "通知类，适合日常消息",
+    "success": "成功类，适合任务完成"
+  }
+}

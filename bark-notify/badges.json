@@ -1,0 +1,59 @@
+{
+  "name": "Bark 角标库",
+  "description": "常用角标数字及其含义，用于快速设置 App 角标",
+  "badges": {
+    "0": {
+      "description": "清除角标",
+      "use_case": "通知已读、任务完成、重置计数"
+    },
+    "1": {
+      "description": "单条通知",
+      "use_case": "新消息、待处理事项"
+    },
+    "2": {
+      "description": "两条通知",
+      "use_case": "双任务待处理"
+    },
+    "3": {
+      "description": "三条通知",
+      "use_case": "多任务待处理"
+    },
+    "5": {
+      "description": "五条通知",
+      "use_case": "中等数量待处理"
+    },
+    "10": {
+      "description": "十条通知",
+      "use_case": "大量待处理"
+    },
+    "50": {
+      "description": "五十条通知",
+      "use_case": "紧急积压"
+    },
+    "99": {
+      "description": "角标上限",
+      "use_case": "显示最大数量"
+    },
+    "-1": {
+      "description": "隐藏角标但保留通知",
+      "use_case": "静默通知"
+    },
+    "auto": {
+      "description": "自动计算",
+      "use_case": "根据文件数/任务数自动设置",
+      "note": "需要脚本计算具体数值"
+    }
+  },
+  "presets": {
+    "success": 0,
+    "pending": 1,
+    "warning": 5,
+    "critical": 10,
+    "reset": 0
+  },
+  "rules": {
+    "file_count": "根据目录下文件数量设置角标",
+    "task_count": "根据待办任务数量设置角标",
+    "error_count": "根据错误数量设置角标"
+  }
+}

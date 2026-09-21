@@ -1,0 +1,7 @@
+{
+  "server": "https://api.day.app",
+  "key": "your_device_key_here",
+  "default_sound": "calypso",
+  "default_group": "Pi",
+  "default_level": "active"
+}
