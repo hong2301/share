@@ -1,0 +1,126 @@
+{
+  "_说明": "一条帖子 = 一个 JSON 文件。落盘口径：raw_json/<username>/<taken_at>_<code>.json。下面示例基于 IG 私有 API（/api/v1/feed/user/<pk>/ 与 /api/v1/media/<pk>/info/）的真实返回结构，展示「原始全字段 + 我方包裹层」。正式采集时 _collect 层由采集器写入，其余为 IG 原样返回、不做裁剪。",
+
+  "_collect": {
+    "source_username": "cristiano",
+    "source_pk": "173560420",
+    "collect_time": "2026-10-15T18:00:00+08:00",
+    "collect_batch": "batch-01",
+    "api_endpoint": "/api/v1/feed/user/173560420/",
+    "page_cursor": "QVFB...",
+    "in_window": true,
+    "window_start": "2025-10-15T00:00:00+08:00",
+    "http_status": 200,
+    "risk_flag": "正常",
+    "raw_json_sha256": "<写入后计算>"
+  },
+
+  "post_raw": {
+    "pk": "3700282195034378469",
+    "id": "3700282195034378469_46829718",
+    "code": "DNaCw0ruhDl",
+    "taken_at": 1755328033,
+    "media_type": 8,
+    "product_type": "carousel_container",
+    "carousel_media_count": 2,
+    "carousel_media": [
+      {
+        "id": "3700282195034378469_46829718",
+        "media_type": 1,
+        "image_versions2": {
+          "candidates": [
+            { "width": 1080, "height": 1350, "url": "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/xxx_n.jpg?...&oe=68F1A2B3" },
+            { "width": 640, "height": 800, "url": "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/xxx_n.jpg?..." },
+            { "width": 240, "height": 300, "url": "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/xxx_n.jpg?..." }
+          ]
+        },
+        "original_width": 1440,
+        "original_height": 1800,
+        "accessibility_caption": "没有照片描述。",
+        "usertags": { "in": [] }
+      },
+      {
+        "id": "3700282195034378470_46829718",
+        "media_type": 2,
+        "image_versions2": { "candidates": [{ "width": 1080, "height": 1920, "url": "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/yyy_n.jpg?..." }] },
+        "video_versions": [
+          { "width": 1080, "height": 1920, "type": 101, "url": "https://scontent-xxx.cdninstagram.com/o1/v/t2/f2/m86/yyy.mp4?..." }
+        ],
+        "video_duration": 12.34,
+        "has_audio": true,
+        "view_count": 1617505,
+        "play_count": 1617505
+      }
+    ],
+    "caption": {
+      "pk": "17863973433446950",
+      "created_at": 1755328034,
+      "text": "не могу поверить что лето заканчивается",
+      "has_translation": null
+    },
+    "caption_is_edited": false,
+    "like_count": 54910,
+    "comment_count": 171,
+    "has_liked": false,
+    "comments_disabled": false,
+    "like_and_view_counts_disabled": false,
+    "location": { "pk": "578803863", "name": "阿曼", "lat": 20.233333, "lng": 55.966667, "address": null, "profile_pic_url": null },
+    "usertags": {
+      "in": [
+        { "user": { "pk": "294370803", "username": "sobaka_ru", "full_name": "СОБАКА.RU Magazine", "is_verified": true }, "x": 0.3728, "y": 0.2477 }
+      ]
+    },
+    "coauthor_producers": [],
+    "invited_coauthor_producers": [],
+    "clips_metadata": {
+      "music_info": null,
+      "audio_type": "original_sounds",
+      "original_sound_info": { "original_audio_title": "原声", "ig_artist": { "username": "cristiano" } },
+      "achievements_info": { "show_achievements": false }
+    },
+    "user": {
+      "pk": "46829718",
+      "username": "cristiano",
+      "full_name": "Cristiano Ronaldo",
+      "is_verified": true,
+      "is_private": false,
+      "profile_pic_url": "https://scontent-xxx.cdninstagram.com/v/t51.2885-19/xxx_s150x150.jpg?...",
+      "follower_count": 658618313,
+      "media_count": 3907
+    },
+    "owner": { "id": "46829718", "username": "cristiano" },
+    "organic_tracking_token": "<省略，非业务字段但原样保留>",
+    "sharing_friction_info": { "should_have_sharing_friction": false },
+    "is_paid_partnership": false,
+    "is_comments_gif_composer_enabled": true,
+    "media_cropping_info": {},
+    "accessibility_caption": "Photo by НАСТЯ ИВЛЕЕВА in Страстной бульвар. 没有照片描述。."
+  },
+
+  "_derived": {
+    "post_url": "https://www.instagram.com/p/DNaCw0ruhDl/",
+    "taken_at_utc": "2025-08-16T07:07:13Z",
+    "taken_at_local": "2025-08-16 15:07:13+08:00",
+    "media_count_actual": 2,
+    "image_urls": [
+      "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/xxx_n.jpg?...&oe=68F1A2B3",
+      "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/yyy_n.jpg?..."
+    ],
+    "video_urls": [
+      "https://scontent-xxx.cdninstagram.com/o1/v/t2/f2/m86/yyy.mp4?..."
+    ],
+    "location_pk": "578803863",
+    "location_name": "阿曼",
+    "location_lat": 20.233333,
+    "location_lng": 55.966667,
+    "tagged_usernames": ["sobaka_ru"],
+    "tagged_user_ids": ["294370803"],
+    "tagged_user_fullnames": ["СОБАКА.RU Magazine"],
+    "audio_type": "original_sounds",
+    "audio_title": "原声",
+    "artist_username": "cristiano",
+    "first_video_url": "https://scontent-xxx.cdninstagram.com/o1/v/t2/f2/m86/yyy.mp4?...",
+    "image_versions2": "<扁平化：主图最大候选 URL>",
+    "display_uri": "<扁平化：主图展示 URL>"
+  }
+}
