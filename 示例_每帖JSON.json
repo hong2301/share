@@ -1,5 +1,5 @@
 {
-  "_说明": "一条帖子 = 一个 JSON 文件。落盘口径：raw_json/<username>/<taken_at>_<code>.json。下面示例基于 IG 私有 API（/api/v1/feed/user/<pk>/ 与 /api/v1/media/<pk>/info/）的真实返回结构，展示「原始全字段 + 我方包裹层」。正式采集时 _collect 层由采集器写入，其余为 IG 原样返回、不做裁剪。",
+  "_说明": "一条帖子 = 一个 JSON 文件；JSON 是唯一数据源，xlsx 只是由它派生的整理视图。落盘口径：raw_json/<username>/<taken_at>_<code>.json。图片文件与链接的对应关系记在 _derived.images[]（含 local_path/file_size/sha256），Excel 的「图片链接表」只放链接。下面示例基于 IG 私有 API（/api/v1/feed/user/<pk>/ 与 /api/v1/media/<pk>/info/）的真实返回结构：_collect 与 _derived 为我方包裹层，post_raw 为 IG 原样返回、不裁剪。",
 
   "_collect": {
     "source_username": "cristiano",
@@ -102,6 +102,30 @@
     "taken_at_utc": "2025-08-16T07:07:13Z",
     "taken_at_local": "2025-08-16 15:07:13+08:00",
     "media_count_actual": 2,
+    "images": [
+      {
+        "index": 1,
+        "media_type": 1,
+        "url": "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/xxx_n.jpg?...&oe=68F1A2B3",
+        "width": 1080,
+        "height": 1350,
+        "local_path": "images/cristiano/DNaCw0ruhDl_1.jpg",
+        "file_size": 268431,
+        "sha256": "<下载后计算>",
+        "downloaded_at": "2026-10-15T18:00:02+08:00"
+      },
+      {
+        "index": 2,
+        "media_type": 2,
+        "url": "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/yyy_n.jpg?...",
+        "width": 1080,
+        "height": 1920,
+        "local_path": "images/cristiano/DNaCw0ruhDl_2.jpg",
+        "file_size": 312900,
+        "sha256": "<下载后计算>",
+        "downloaded_at": "2026-10-15T18:00:03+08:00"
+      }
+    ],
     "image_urls": [
       "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/xxx_n.jpg?...&oe=68F1A2B3",
       "https://scontent-xxx.cdninstagram.com/v/t51.2885-15/yyy_n.jpg?..."
