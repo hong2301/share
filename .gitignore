@@ -1,0 +1,4 @@
+# 运行包采集输出目录(大流量中间产物, 不上传)
+运行包/comments_out_api/
+运行包/project_meta_api/
+运行包/indiegogo_main_api_progress/
