@@ -56,7 +56,7 @@ RETRY_ABOUT_BLANK_EMPTY = True
 
 # True=即使 json 已标记 done（成功采集过）也重新处理，用于补抓 statusText 等遗漏字段；
 # False=done 跳过。
-REPROCESS_DONE = True
+REPROCESS_DONE = False
 
 
 class EmptyLinkError(Exception):
@@ -378,7 +378,7 @@ def get_auth_from_browser(dp, link, save_project_id=None, meta_only=False):
         if 'Updates' in commentBtnItem.text:
             updateBtn=commentBtnItem
             break
-    unEle=updateBtn.ele("@class=gfu-navbar-badge _ml-1",timeout=1)
+    unEle=updateBtn.ele("@class=gfu-navbar-badge _ml-1",timeout=1) if updateBtn else None
     if unEle:
         updates=unEle.text
 
@@ -388,7 +388,7 @@ def get_auth_from_browser(dp, link, save_project_id=None, meta_only=False):
         if 'FAQ' in commentBtnItem.text:
             FAQBtn=commentBtnItem
             break
-    unEle=FAQBtn.ele("@class=gfu-navbar-badge _ml-1",timeout=1)
+    unEle=FAQBtn.ele("@class=gfu-navbar-badge _ml-1",timeout=1) if FAQBtn else None
     if unEle:
         FAQ=unEle.text
 
@@ -938,7 +938,7 @@ def main():
     # 解析命令行参数：支持 start=0 stop=5 port=1234 --meta-only
     cli = {}
     for a in sys.argv[1:]:
-        for k in ("start", "stop", "port"):
+        for k in ("start", "stop", "port", "proxy"):
             if a.startswith(k + "="):
                 cli[k] = a.split("=", 1)[1]
     cli_mode = bool(cli) or "--meta-only" in sys.argv
@@ -988,10 +988,17 @@ def main():
         print(f"[main] 从索引 {start_idx} 开始，无限制")
 
     # 端口：优先命令行 port= 参数，否则用配置 BROWSER_PORT
+    # API 请求代理: 命令行 proxy=xxx 覆盖配置文件(留空=直连)
+    global PROXY
+    if "proxy" in cli and cli["proxy"]:
+        PROXY = cli["proxy"]
+    if PROXY:
+        print(f"[main] API 请求代理: {PROXY}")
+
     browser_port = int(cli["port"]) if "port" in cli else BROWSER_PORT
     dp = Chromium(browser_port)
-    #tab=dp.get_tab()
-    #tab.ele("@class=asdf",timeout=0.1).click()
+    # tab=dp.get_tab()
+    # tab.ele("@class=asdf",timeout=0.1).click()
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     PROJECT_META_DIR.mkdir(parents=True, exist_ok=True)
 
